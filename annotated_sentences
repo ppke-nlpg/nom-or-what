@@ -7229,15 +7229,14 @@ Pest Pest|pest FN.nulla|FN.nulla
 Pest Pest|pest FN.nulla|FN.nulla
 
 
-
-567: Most biztosan valamennyire meg fog változni az életünk . # #
+566: Most biztosan valamennyire meg fog változni az életünk . # #
 -életünk . #
 életünk élet FN.PSt1.nom
 életünk élet FN.PSt1.nom
 életünk élet FN.PSt1.nom
 
 
-568: Minden viszonylat mögött - áttételesen vagy közvetlenül - a politika jelenlétét fedezi föl . # #
+567: Minden viszonylat mögött - áttételesen vagy közvetlenül - a politika jelenlétét fedezi föl . # #
 -viszonylat mögött -
 viszonylat viszonylat FN.semmi
 viszonylat viszonylat FN.semmi
@@ -7248,14 +7247,14 @@ politika politika FN.gen
 politika politika FN.gen
 
 
-571: Lelkét , idegeit tönkreteszik az izgalmak . # #
+568: Lelkét , idegeit tönkreteszik az izgalmak . # #
 -izgalmak . #
 izgalmak izgalom FN.PL.nom
 izgalmak izgalom FN.PL.nom
 izgalmak izgalom FN.PL.nom
 
 
-572: Ezekre az összekeveredett árnyakra rakódtak később az évszámok . # #
+569: Ezekre az összekeveredett árnyakra rakódtak később az évszámok . # #
 -összekeveredett árnyakra rakódtak
 összekeveredett összekeveredik IK.IGE._MIB.semmi
 összekeveredett összekeveredik IK.IGE._MIB.semmi
@@ -7266,7 +7265,7 @@ izgalmak izgalom FN.PL.nom
 évszámok évszám FN.PL.nom
 
 
-573: Klárika , az igazgató elvtárs nem telefonált ? # #
+570: Klárika , az igazgató elvtárs nem telefonált ? # #
 -Klárika , az
 Klárika Klárika FN.vok
 Klárika Klárika FN.vok
@@ -7282,7 +7281,7 @@ elvtárs elvtárs FN.nom
 
 
 
-575: Íratott az Úr 1996. évében , Jacob_Sprenger által . # #
+571: Íratott az Úr 1996. évében , Jacob_Sprenger által . # #
 -Úr 1996. évében
 Úr úr FN.gen
 Úr úr FN.gen
@@ -7297,7 +7296,7 @@ Jacob_Sprenger Sprenger TULN.semmi
 Jacob_Sprenger Sprenger TULN.semmi
 
 
-576: Pongyolája közben combja közepéig húzódott . # #
+572: Pongyolája közben combja közepéig húzódott . # #
 -Pongyolája közben combja
 Pongyolája pongyola FN.PSe3.postag_hiba
 Pongyolája pongyola FN.PSe3.postag_hiba
@@ -7308,7 +7307,7 @@ combja comb FN.PSe3.gen
 combja comb FN.PSe3.gen
 
 
-577: A vadlibák leplezetlen irigységgel nézték a nem mindennapi táskatartót . # #
+573: A vadlibák leplezetlen irigységgel nézték a nem mindennapi táskatartót . # #
 ----nulla van és kell az ablak
 --ablak--:vadlibák leplezetlen irigységgel
 -vadlibák leplezetlen irigységgel
@@ -7331,7 +7330,7 @@ mindennapi mindennapi MN.semmi
 mindennapi mindennapi MN.semmi
 
 
-580: Levelek_egy_tanító_ifjúhoz című kötetét először Budapesten adták ki 1892-ben . # #
+575: Levelek_egy_tanító_ifjúhoz című kötetét először Budapesten adták ki 1892-ben . # #
 -Levelek_egy_tanító_ifjúhoz című kötetét
 Levelek_egy_tanító_ifjúhoz Levelek_egy_tanító_ifjúhoz FN.postag_hiba
 Levelek_egy_tanító_ifjúhoz Levelek_egy_tanító_ifjúhoz FN.postag_hiba
@@ -7342,7 +7341,7 @@ című című MN.defsemmi
 című című MN.defsemmi
 
 
-581: - Én is ! - mondta Mi sárkány . # #
+576: - Én is ! - mondta Mi sárkány . # #
 -Én is !
 Én én FN_NM.e1.nom
 Én én FN_NM.e1.nom
@@ -7357,7 +7356,7 @@ sárkány sárkány FN.nom
 sárkány sárkány FN.nom
 
 
-582: Január végén beállt a víz . # #
+577: Január végén beállt a víz . # #
 -Január végén beállt
 Január január FN.gen
 Január január FN.gen
@@ -7368,7 +7367,7 @@ víz víz FN.nom
 víz víz FN.nom
 
 
-583: A többiek is megtanulhatnak egy-két trükköt ! " # #
+578: A többiek is megtanulhatnak egy-két trükköt ! " # #
 -többiek is megtanulhatnak
 többiek többi MN_NM.PL.nom
 többiek többi MN_NM.PL.nom
@@ -7379,14 +7378,14 @@ egy-két egy-két SZN.semmi
 egy-két egy-két SZN.semmi
 
 
-584: Nekünk ez kell . # #
+579: Nekünk ez kell . # #
 -ez kell .
 ez ez DET_NM.nom
 ez ez DET_NM.nom
 ez ez DET_NM.nom
 
 
-585: Volt idő , amikor még Keszthelyre is utánam hozták az ebédet ... # #
+580: Volt idő , amikor még Keszthelyre is utánam hozták az ebédet ... # #
 -Volt idő ,
 Volt volt FN.postag_hiba
 Volt volt FN.postag_hiba
@@ -7397,7 +7396,7 @@ idő idő FN.nom
 idő idő FN.nom
 
 
-586: aki fölperzselte az önök gazdag és virágzó faluját . # #
+581: aki fölperzselte az önök gazdag és virágzó faluját . # #
 -aki fölperzselte az
 aki aki FN_NM.nom
 aki aki FN_NM.nom
@@ -7418,7 +7417,7 @@ virágzó virágzó MN.semmi
 virágzó virágzó MN.semmi
 
 
-588: Fönt , a magasba nyújtózó ágak közt méhek , darazsak donganak körül . # #
+582: Fönt , a magasba nyújtózó ágak közt méhek , darazsak donganak körül . # #
 -nyújtózó ágak közt
 nyújtózó nyújtózik IGE._OKEP.semmi
 nyújtózó nyújtózik IGE._OKEP.semmi
@@ -7437,7 +7436,7 @@ darazsak darázs FN.PL.nom
 darazsak darázs FN.PL.nom
 
 
-589: A berneceiek szerint a Luca-napi kenyerek szénné változtak . # #
+583: A berneceiek szerint a Luca-napi kenyerek szénné változtak . # #
 -A berneceiek szerint
 A a|A FN.nom|FN.postag_hiba
 A a|A FN.nom|FN.postag_hiba
@@ -7456,15 +7455,14 @@ kenyerek kenyér FN.PL.nom
 kenyerek kenyér FN.PL.nom
 
 
-590: Franciaországban már valamivel jobban mentek dolgaim . # #
--dolgaim . #
+584-dolgaim . #
 dolgaim dolog FN.PSe1i.nom
 dolgaim dolog FN.PSe1i.nom
 dolgaim dolog FN.PSe1i.nom
 
 
 
-592: Szegény megfáradt munkás , tanár vagy családanya hiába igyekszik magába szívni egy kis csendet , jó levegőt ... # #
+585: Szegény megfáradt munkás , tanár vagy családanya hiába igyekszik magába szívni egy kis csendet , jó levegőt ... # #
 -Szegény megfáradt munkás
 Szegény szegény MN.semmi
 Szegény szegény MN.defsemmi
@@ -7499,7 +7497,7 @@ jó jó MN.semmi
 jó jó MN.semmi
 
 
-593: A bombák és a rakéták telítettségi fokán új korlátok keletkeztek . # #
+586: A bombák és a rakéták telítettségi fokán új korlátok keletkeztek . # #
 -bombák és a
 bombák bomba FN.PL.gen
 bombák bomba FN.PL.nulla
@@ -7522,7 +7520,7 @@ korlátok korlát FN.PL.nom
 korlátok korlát FN.PL.nom
 
 
-594: Helyében , bizonyisten , én is hümmögnék . # #
+587: Helyében , bizonyisten , én is hümmögnék . # #
 ---valamire nem gondoltál!
 ---bizonyisten bizonyisten HA.NOM
 -én is hümmögnék
@@ -7532,7 +7530,7 @@ korlátok korlát FN.PL.nom
 
 
 
-596: ha csak mozi után nem csavarogtunk még egy kicsit a zámolyi szőlőhegyen vagy a bauxitbánya vöröslő meddőhányói között . # #
+588: ha csak mozi után nem csavarogtunk még egy kicsit a zámolyi szőlőhegyen vagy a bauxitbánya vöröslő meddőhányói között . # #
 -mozi után nem
 mozi mozi FN.semmi
 mozi mozi FN.semmi
@@ -7559,7 +7557,7 @@ meddőhányói meddőhányó FN.PSe3i.semmi
 meddőhányói meddőhányó FN.PSe3i.semmi
 
 
-597: A napfény diszkréten megcsillan könyveim gerincén . # #
+589: A napfény diszkréten megcsillan könyveim gerincén . # #
 -napfény diszkréten megcsillan
 napfény napfény FN.nom
 napfény napfény FN.nom
@@ -7570,14 +7568,14 @@ könyveim könyv FN.PSe1i.gen
 könyveim könyv FN.PSe1i.gen
 
 
-598: Itt húzta meg magát a fiam szobájában . # #
+590: Itt húzta meg magát a fiam szobájában . # #
 -fiam szobájában .
 fiam fiú|fia FN.PSe1.gen|FN.PSe1.gen
 fiam fiú|fia FN.PSe1.gen|FN.PSe1.gen
 fiam fiú|fia FN.PSe1.gen|FN.PSe1.gen
 
 
-599: Levendel az alkoholizmust , az öngyilkosok fenyegető kísértet-számát , a hetvenezer légzésrokkantat , az öregek elhanyagolt helyzetét ugyanolyan súlyos gondnak tekinti ma , mint a két világháború közti népi írók a földnélküliek nyomorúságát . # #
+591: Levendel az alkoholizmust , az öngyilkosok fenyegető kísértet-számát , a hetvenezer légzésrokkantat , az öregek elhanyagolt helyzetét ugyanolyan súlyos gondnak tekinti ma , mint a két világháború közti népi írók a földnélküliek nyomorúságát . # #
 -öngyilkosok fenyegető kísértet-számát
 öngyilkosok öngyilkos FN.PL.gen
 öngyilkosok öngyilkos FN.PL.gen
@@ -7634,14 +7632,14 @@ földnélküliek földnélküli MN.PL.gen
 földnélküliek földnélküli MN.PL.gen
 
 
-600: LASSAN FOROG A KERÉK # #
+592: LASSAN FOROG A KERÉK # #
 - KERÉK #
 KERÉK Kerék|kerék FN.nulla|FN.nom
 KERÉK Kerék|kerék FN.nulla|FN.nom
 KERÉK Kerék|kerék FN.nulla|FN.nulla
 
 
-601: feltűnést keltett az átdolgozott cégtábla . # #
+593: feltűnést keltett az átdolgozott cégtábla . # #
 -átdolgozott cégtábla .
 átdolgozott átdolgozik IK.IGE._MIB.semmi
 átdolgozott átdolgozik IK.IGE._MIB.semmi
@@ -7652,7 +7650,7 @@ cégtábla cégtábla FN.nom
 cégtábla cégtábla FN.nom
 
 
-602: Tanulmányokat írt az újabb robbanóanyagokról és a fémek kolloidális állapotáról is . # #
+594: Tanulmányokat írt az újabb robbanóanyagokról és a fémek kolloidális állapotáról is . # #
 -újabb robbanóanyagokról és
 újabb új MN._FOK.semmi
 újabb új MN._FOK.defsemmi
@@ -7667,7 +7665,7 @@ kolloidális kolloidális MN.defsemmi
 kolloidális kolloidális MN.defsemmi
 
 
-604: A fokföldi külügyminiszter ma nem vacsorázik . # #
+595: A fokföldi külügyminiszter ma nem vacsorázik . # #
 -fokföldi külügyminiszter ma
 fokföldi fokföldi MN.semmi
 fokföldi fokföldi MN.defsemmi
@@ -7678,7 +7676,7 @@ külügyminiszter külügyminiszter FN.nulla
 külügyminiszter külügyminiszter FN.nulla
 
 
-605: Mégis , mintha Ferkóolaj és csípős lószag támadna egy pillanatra . # #
+596: Mégis , mintha Ferkóolaj és csípős lószag támadna egy pillanatra . # #
 -csípős lószag támadna
 csípős csípős MN.semmi
 csípős csípős MN.semmi
@@ -7693,14 +7691,14 @@ egy egy SZN.semmi
 egy egy SZN.semmi
 
 
-606: Mindezt talán piarista neveltetésének is köszönhette . # #
+597: Mindezt talán piarista neveltetésének is köszönhette . # #
 -piarista neveltetésének is
 piarista piarista MN.semmi
 piarista piarista MN.defsemmi
 piarista piarista MN.defsemmi
 
 
-607: A halottakat a helybéli ágostai hitvallású iskolamester , Tanóczi_Tamás temeti el . # #
+598: A halottakat a helybéli ágostai hitvallású iskolamester , Tanóczi_Tamás temeti el . # #
 -helybéli ágostai hitvallású
 helybéli helybéli MN.semmi
 helybéli helybéli MN.defsemmi
@@ -7723,14 +7721,14 @@ Tanóczi_Tamás Tamás TULN.nom
 Tanóczi_Tamás Tamás TULN.nom
 
 
-608: Aztán miért érdemelnék meg , mi ? # #
+599: Aztán miért érdemelnék meg , mi ? # #
 -mi ? #
 mi mi FN_NM.t1.postag_hiba
 mi mi FN_NM.t1.postag_hiba
 mi mi FN_NM.t1.nom
 
 
-609: Adtuk vérünk mindenféle háborúban , osztálykülönbözőségben vívott csatákban . # #
+600: Adtuk vérünk mindenféle háborúban , osztálykülönbözőségben vívott csatákban . # #
 ----nulla van és kell az ablak
 --ablak--:vérünk mindenféle háborúban
 -vérünk mindenféle háborúban
