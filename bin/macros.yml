@@ -1,0 +1,162 @@
+# YAML configuration file for the RISK SCORE 
+
+macros:
+    nu_mn:
+        type: list
+        regexp_type: None
+        value: [ 'alatti', 'általi', 'elleni', 'előli', 'előtti',
+                 'felőli', 'fölötti', 'helyetti', 'iránti',
+                 'képesti', 'körüli', 'közötti', 'melletti',
+                 'mellőli', 'miatti', 'mögötti', 'nélküli', 'szerinti',
+                 'végetti', 'utáni', 'közti' ]
+    not_gen:
+        type: list
+        regexp_type: None
+        value: [ 'mindez', 'Mindez', 'mindaz', 'Mindaz', 'ez', 'Ez',
+                 'az', 'Az', 'emez', 'Emez', 'amaz', 'Amaz', 'aki', 'Aki',
+                 'ami', 'Ami']
+    NPMod:
+        type: regex
+        regexp_type: search
+        value: 'MN|SZN|MIB|MIF|MIA'
+
+    NPMod_PL:
+        type: complex
+        compl_type: and
+        sub_macros: [NPMod, pl]
+
+    FN:
+        type: regex
+        regexp_type: search
+        value: 'FN'
+
+    TULN:
+        type: regex
+        regexp_type: search
+        value: 'TULN'
+
+    DetNM:
+        type: regex
+        regexp_type: search
+        value: 'DET_NM'
+
+    Noun_tree:
+        type: complex
+        compl_type: or
+        sub_macros: [FN, NPMod_PL, TULN, DetNM]
+
+    Adj:
+        type: regex
+        regexp_type: search
+        value: 'MN|MIB|MIF|MIA|OKEP'
+
+    pl:
+        type: regex
+        regexp_type: search
+        value: 'PL'
+
+    not_pl:
+        type: neg
+        sub_macro: pl
+
+    Adj_tree:
+        type: complex
+        compl_type: and
+        sub_macros: [Adj, not_pl]
+
+
+    Num_tree:
+        type: regex
+        regexp_type: search
+        value: 'SZN'
+
+    NOM:
+        type: ends
+        regexp_type: NONE
+        value: 'NOM'
+
+    V:
+        type: regex
+        regexp_type: search
+        value: 'IGE'
+
+    van:
+        type: lemma
+        value: 'van'
+
+    kop_v:
+        type: complex
+        compl_type: and
+        sub_macros: [V, van]
+
+    not_kop:
+        type: neg
+        sub_macro: van
+
+    not_kop_v:
+        type: complex
+        compl_type: and
+        sub_macros: [V, not_kop]
+
+    art:
+        type: list
+        value: ['a', 'az']
+
+    det:
+        type: regex
+        regexp_type: search
+        value: 'DET'
+
+    def_art:
+        type: complex
+        compl_type: and
+        sub_macros: [art, det]
+
+    NU:
+        type: regex
+        regexp_type: search
+        value: 'NU'
+
+    cimunevu:
+        type: list
+        value: ['című', 'nevű', 'címen', 'néven', 'címmel', 'névvel']
+
+    NUs:
+        type: complex
+        compl_type: or
+        sub_macros: [NU, nu_mn, cimunevu]
+
+    szn:
+        type: regex
+        regexp_type: search
+        value: 'SZN'
+
+    PSE:
+        type: regex
+        regexp_type: search
+        value: 'PSe'
+
+    PUNCT:
+        type: regex
+        regexp_type: search
+        value: 'SPUNCT'
+
+    koto:
+        type: list
+        value: ['is', 'sem', 'nem', 'pedig']
+
+    nm:
+        type: regex
+        regexp_type: search
+        value: 'NM'
+
+    full_stop:
+        type: complex
+        compl_type: or
+        sub_macros: [koto, PUNCT, def_art, nm]
+
+    vonatk:
+        type: list
+        value: ['aki', 'ami', 'hogy', 'de']
+
+
