@@ -74,11 +74,25 @@ macros:
         type: ends
         regexp_type: NONE
         value: 'NOM'
-
-    V:
+    
+    IGE:
         type: regex
         regexp_type: search
         value: 'IGE'
+    
+    PART:
+        type: regex
+        regexp_type: search
+        value: 'MIB|MIA|MIF|OKEP'
+    
+    not_PART:
+        type: neg
+        sub_macro: PART
+    
+    V:
+        type: complex
+        compl_type: and 
+        sub_macros: [IGE, not_PART]
 
     van:
         type: lemma
@@ -158,5 +172,9 @@ macros:
     vonatk:
         type: list
         value: ['aki', 'ami', 'hogy', 'de']
-
+    
+    esetragos:
+        type: regex
+        regexp_type: search
+        value: 'SUB|INE|SUP|ILL|FAC|ACC|DAT|ILL|ABL|INS|ALL|ELA|DEL|ADE'
 

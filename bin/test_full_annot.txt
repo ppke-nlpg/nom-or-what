@@ -77,8 +77,6 @@ másik másik MN_NM.defsemmi
 honti honti MN.semmi
 honti honti MN.defsemmi
 honti honti MN.defsemmi
-----nulla van és kell az ablak
---ablak--:Pajor_István 1848_49-es nemzetőrnek
 -Pajor_István 1848_49-es nemzetőrnek
 Pajor_István Pajor_István TULN.amnk
 Pajor_István Pajor_István TULN.amnk

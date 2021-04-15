@@ -77,56 +77,54 @@ másik másik MN_NM.defsemmi
 honti honti MN.semmi
 honti honti MN.defsemmi
 honti honti MN.defsemmi
-----nulla van és kell az ablak
---ablak--:Pajor_István 1848_49-es nemzetőrnek
 -Pajor_István 1848_49-es nemzetőrnek
 Pajor_István Pajor_István TULN.amnk
 Pajor_István Pajor_István TULN.amnk
--1848_49-es nemzetőrnek ,
+Pajor_István Pajor_István TULN.nulla
 -1848_49-es nemzetőrnek ,
 1848_49-es 1848_49-es MN.semmi
 1848_49-es 1848_49-es MN.defsemmi
--megyei tisztviselőnek ,
+1848_49-es 1848_49-es MN.defsemmi
 -megyei tisztviselőnek ,
 megyei megyei MN.semmi
 megyei megyei MN.defsemmi
-
+megyei megyei MN.defsemmi
 
  
 7: ( Gördeszkások élesen , suhantak el az Ikrek mellett , karcolva össze a decens szürke márványlapokat . # #
 -Gördeszkások élesen ,
 Gördeszkások gördeszkás FN.PL.nom
 Gördeszkások gördeszkás FN.PL.nulla
--Ikrek mellett ,
+Gördeszkások gördeszkás FN.PL.nulla
 -Ikrek mellett ,
 Ikrek iker FN.PL.semmi
 Ikrek iker FN.PL.semmi
--decens szürke márványlapokat
+Ikrek iker FN.PL.semmi
 -decens szürke márványlapokat
 decens decens MN.semmi
 decens decens MN.defsemmi
--szürke márványlapokat .
+decens decens MN.defsemmi
 -szürke márványlapokat .
 szürke szürke MN.semmi
 szürke szürke MN.semmi
-
+szürke szürke MN.semmi
 
  
 8: A patak tőlük keletre húzódott . # #
 -patak tőlük keletre
 patak patak FN.nom
 patak patak FN.nulla
-
+patak patak FN.nom
 
  
 9: A " sziget " elnevezés arra utal , . # #
 -sziget " elnevezés
 sziget sziget FN.amnk
 sziget sziget FN.amnk
--elnevezés arra utal
+sziget sziget FN.nulla
 -elnevezés arra utal
 elnevezés elnevezés FN.nom
 elnevezés elnevezés FN.nom
-
+elnevezés elnevezés FN.nom
  
 10: Azzal érveltem ,  # #
