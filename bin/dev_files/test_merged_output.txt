@@ -1,0 +1,130 @@
+1: Magyarországról az első térképet Bakócz_Tamás érsek Lázár nevű titkára készítette , valószínűleg az 1510-es években . # #
+-első térképet Bakócz_Tamás
+első első MN.semmi
+első első MN.defsemmi
+első első MN.defsemmi
+-Bakócz_Tamás érsek Lázár
+Bakócz_Tamás Bakócz_Tamás TULN.amnk
+Bakócz_Tamás Bakócz_Tamás TULN.amnk
+Bakócz_Tamás Bakócz_Tamás TULN.nulla
+-érsek Lázár nevű
+érsek érsek FN.gen
+érsek érsek FN.nulla
+érsek érsek FN.nulla
+-Lázár nevű titkára
+Lázár Lázár TULN.semmi
+Lázár Lázár TULN.semmi
+Lázár Lázár TULN.semmi
+-nevű titkára készítette
+nevű nevű MN.semmi
+nevű nevű MN.semmi
+nevű nevű MN.defsemmi
+-titkára készítette ,
+titkára titkár FN.PSe3.nom
+titkára titkár FN.PSe3.nom
+titkára titkár FN.PSe3.nom
+-1510-es években .
+1510-es 1510-es MN.semmi
+1510-es 1510-es MN.semmi
+1510-es 1510-es MN.semmi
+
+ 
+2: Ha jót cselekszem. # #
+ 
+3: A délutáni napban képzelődhettem . # #
+-délutáni napban képzelődhettem
+délutáni délutáni MN.semmi
+délutáni délutáni MN.semmi
+délutáni délutáni MN.defsemmi
+
+ 
+4: Okait e látszattartalomnak nem elsősorban a tehetetlenségben találnánk meg , hanem az ideológiai megkötöttségekben , a sajtó függetlenségét és szabadságát is korlátozó központi vezérlésben . # #
+-ideológiai megkötöttségekben ,
+ideológiai ideológiai MN.semmi
+ideológiai ideológiai MN.defsemmi
+ideológiai ideológiai MN.defsemmi
+-sajtó függetlenségét és
+sajtó sajtó FN.gen
+sajtó sajtó FN.gen
+sajtó sajtó FN.gen
+-korlátozó központi vezérlésben
+korlátozó korlátoz IGE._OKEP.semmi
+korlátozó korlátoz IGE._OKEP.defsemmi
+korlátozó korlátoz IGE._OKEP.defsemmi
+-központi vezérlésben .
+központi központi MN.semmi
+központi központi MN.semmi
+központi központi MN.semmi
+
+ 
+5: Sokszor én is belecsúszok abba a hibába . # #
+-én is belecsúszok
+én én FN_NM.e1.nom
+én én FN_NM.e1.nom
+én én FN_NM.e1.nom
+
+ 
+6: Több levelet írt a másik honti jóbarátnak és munkatársnak , Pajor_István 1848_49-es nemzetőrnek , megyei tisztviselőnek , írónak és költőnek is . # #
+-Több levelet írt
+Több sok SZN._FOK.semmi
+Több sok SZN._FOK.semmi
+Több sok SZN._FOK.semmi
+-másik honti jóbarátnak
+másik másik MN_NM.semmi
+másik másik MN_NM.defsemmi
+másik másik MN_NM.defsemmi
+-honti jóbarátnak és
+honti honti MN.semmi
+honti honti MN.defsemmi
+honti honti MN.defsemmi
+-Pajor_István 1848_49-es nemzetőrnek
+Pajor_István Pajor_István TULN.amnk
+Pajor_István Pajor_István TULN.amnk
+Pajor_István Pajor_István TULN.nulla
+-1848_49-es nemzetőrnek ,
+1848_49-es 1848_49-es MN.semmi
+1848_49-es 1848_49-es MN.defsemmi
+1848_49-es 1848_49-es MN.defsemmi
+-megyei tisztviselőnek ,
+megyei megyei MN.semmi
+megyei megyei MN.defsemmi
+megyei megyei MN.defsemmi
+
+ 
+7: ( Gördeszkások élesen , suhantak el az Ikrek mellett , karcolva össze a decens szürke márványlapokat . # #
+-Gördeszkások élesen ,
+Gördeszkások gördeszkás FN.PL.nom
+Gördeszkások gördeszkás FN.PL.nulla
+Gördeszkások gördeszkás FN.PL.nulla
+-Ikrek mellett ,
+Ikrek iker FN.PL.semmi
+Ikrek iker FN.PL.semmi
+Ikrek iker FN.PL.semmi
+-decens szürke márványlapokat
+decens decens MN.semmi
+decens decens MN.defsemmi
+decens decens MN.defsemmi
+-szürke márványlapokat .
+szürke szürke MN.semmi
+szürke szürke MN.semmi
+szürke szürke MN.semmi
+
+ 
+8: A patak tőlük keletre húzódott . # #
+-patak tőlük keletre
+patak patak FN.nom
+patak patak FN.nulla
+patak patak FN.nom
+
+ 
+9: A " sziget " elnevezés arra utal , . # #
+-sziget " elnevezés
+sziget sziget FN.amnk
+sziget sziget FN.amnk
+sziget sziget FN.nulla
+-elnevezés arra utal
+elnevezés elnevezés FN.nom
+elnevezés elnevezés FN.nom
+elnevezés elnevezés FN.nom
+ 
+10: Azzal érveltem ,  # #

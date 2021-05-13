@@ -1,4 +1,4 @@
-# YAML configuration file for the RISK SCORE 
+# YAML configuration file for nom-or-what algorithm 
 
 macros:
     nu_mn:
@@ -169,11 +169,11 @@ macros:
         compl_type: or
         sub_macros: [koto, PUNCT, def_art, nm]
 
-    vonatk:
+    relpron:
         type: list
         value: ['aki', 'ami', 'hogy', 'de']
     
-    esetragos:
+    casesuff:
         type: regex
         regexp_type: search
         value: 'SUB|INE|SUP|ILL|FAC|ACC|DAT|ILL|ABL|INS|ALL|ELA|DEL|ADE'

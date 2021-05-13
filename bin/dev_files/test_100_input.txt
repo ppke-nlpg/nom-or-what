@@ -1,0 +1,100 @@
+Magyarországról/Magyarország/TULN.DEL az/az/DET első/első/MN.NOM térképet/térkép/FN.ACC Bakócz_Tamás/Bakócz_Tamás/TULN.NOM érsek/érsek/FN.NOM Lázár/Lázár/TULN.NOM nevű/nevű/MN.NOM titkára/titkár/FN.PSe3.NOM készítette/készít/IGE.TMe3 ,/,/WPUNCT valószínűleg/valószínűleg/HA az/az/DET 1510-es/1510-es/MN.NOM években/év/FN.PL.INE ././SPUNCT
+Ha/ha/ISZ jót/jó/MN.ACC cselekszem/cselekszik/IGE.Te1 ././SPUNCT
+A/a/DET délutáni/délutáni/MN.NOM napban/nap/FN.INE képzelődhettem/képzelődhet/IGE.Me1 ././SPUNCT
+Okait/ok/FN.PSe3i.ACC e/e/DET_NM látszattartalomnak/látszattartalom/FN.DAT nem/nem/HA elsősorban/elsősorban/HA a/a/DET_NM tehetetlenségben/tehetetlenség/FN.INE találnánk/talál/IGE.TFt1 meg/meg/IK ,/,/WPUNCT hanem/hanem/KOT az/az/DET ideológiai/ideológiai/MN.NOM megkötöttségekben/megkötöttség/FN.PL.INE ,/,/WPUNCT a/a/DET sajtó/sajtó/FN.NOM függetlenségét/függetlenség/FN.PSe3.ACC és/és/KOT szabadságát/szabadság/FN.PSe3.ACC is/is/HA korlátozó/korlátoz/IGE._OKEP.NOM központi/központi/MN.NOM vezérlésben/vezérlés/FN.INE ././SPUNCT
+Sokszor/sokszor/HA én/én/FN_NM.e1.NOM is/is/HA belecsúszok/belecsúszik/IK.IGE.e1 abba/az|az/FN_NM.ILL|DET_NM.ILL a/a/DET hibába/hiba/FN.ILL ././SPUNCT
+Több/sok/SZN._FOK.NOM levelet/levél/FN.ACC írt/ír/IGE.Me3 a/a/DET másik/másik/MN_NM.NOM honti/honti/MN.NOM jóbarátnak/jóbarát/FN.DAT és/és/KOT munkatársnak/munkatárs/FN.DAT ,/,/WPUNCT Pajor_István/Pajor_István/TULN.NOM 1848_49-es/1848_49-es/MN.NOM nemzetőrnek/nemzetőr/FN.DAT ,/,/WPUNCT megyei/megyei/MN.NOM tisztviselőnek/tisztviselő/FN.DAT ,/,/WPUNCT írónak/író/FN.DAT és/és/KOT költőnek/költő/FN.DAT is/is/HA ././SPUNCT
+(/(/WPUNCT Gördeszkások/gördeszkás/FN.PL.NOM élesen/élesen/HA ,/,/WPUNCT suhantak/suhan/IGE.Mt3 el/el/IK az/az/DET Ikrek/iker/FN.PL.NOM mellett/mellett/NU ,/,/WPUNCT karcolva/karcol/IGE._HIN össze/össze/IK a/a/DET decens/decens/MN.NOM szürke/szürke/MN.NOM márványlapokat/márványlap/FN.PL.ACC ././SPUNCT
+A/a/DET patak/patak/FN.NOM tőlük/ők/FN_NM.ABL.t3 keletre/kelet/FN.SUB húzódott/húzódik/IGE.Me3 ././SPUNCT
+A/a/DET_NM "//WPUNCT sziget/sziget/FN.NOM "//WPUNCT elnevezés/elnevezés/FN.NOM arra/az|az/DET_NM.SUB|FN_NM.SUB utal/utal/IGE.e3 ,/,/WPUNCT 
+Azzal/az|az/FN_NM.INS|DET_NM.INS érveltem/érvel/IGE.Me1 ,/,/WPUNCT
+Egy/egy/SZN.NOM magyar/magyar/MN.NOM paraszt/paraszt/MN.NOM rudazókötélre/rudazókötél/FN.SUB akasztva/akaszt/IGE._HIN lóg/lóg/IGE.e3 a/a/DET saját/saját/MN.NOM diófáján/diófa/FN.PSe3.SUP ././SPUNCT
+A/a/DET kávéház/kávéház/FN.NOM tulajdonosa/tulajdonos/FN.PSe3.NOM unottan/unottan/HA támasztotta/támaszt/IGE.TMe3 a/a/DET pultot/pult/FN.ACC ././SPUNCT
+Én/én/FN_NM.e1.NOM meg/meg/KOT is/is/HA tapogattam/tapogat/IGE.Me1 ././SPUNCT
+A/a/DET puszták/puszta/FN.PL.NOM népéről/nép/FN.PSe3.DEL írt/ír/IGE._MIB.NOM könyvével/könyv/FN.PSe3.INS szinte/szinte/HA párhuzamosan/párhuzamosan/HA írja/ír/IGE.Te3 meg/meg/IK szemléletváltoztató/szemléletváltoztató/MN.NOM tanulmányát/tanulmány/FN.PSe3.ACC Fazekas/fazekas/TULN.NOM elfelejtett/elfelejt/IK.IGE._MIB.NOM remekművéről/remekmű/FN.PSe3.DEL ././SPUNCT
+Én/én/FN_NM.e1.NOM akkoriban/akkoriban/HA_NM soha/soha/HA nem/nem/HA gondolkodtam/gondolkodik/IGE.Me1 azon/azon/DET_NM ,/,/WPUNCT
+Talán/talán/HA csak/csak/HA tíz/tíz/SZN.NOM százalékuk/százalék/FN.PSt3.NOM válaszolt/válaszol/IGE.Me3 magabiztosan/magabiztosan/HA igennel/igen/FN.INS ././SPUNCT
+Csak/csak/HA úgy/úgy/HA_NM utalnak/utal/IGE.t3 a/a/DET nagy/nagy/MN.NOM elődre/előd/FN.SUB ,/,/WPUNCT mint/mint/KOT ahogy/ahogy/HA_NM József_Attila/József_Attila/TULN.NOM verseiben/vers/FN.PSe3i.INE is/is/HA ránk/mi/FN_NM.SUB.t1 nevet/név/FN.ACC Csokonai/Csokonai/TULN.NOM egy-egy/egy-egy/SZN.NOM ríme/rím/FN.PSe3.NOM ././SPUNCT
+És/és/KOT én/én/FN_NM.e1.NOM is/is/HA koccintottam/koccint/IGE.Me1 az/az/DET öregemmel/öreg/FN.PSe1.INS ././SPUNCT
+Elindul/elindul/IK.IGE.e3 reggel/reggel|reggel/HA|FN._TMP_INL hazulról/hazulról/HA az/az/DET ember/ember/FN.NOM ingujjasan/ingujjasan/HA vagy/vagy/HA pulóverben/pulóver/FN.INE ././SPUNCT
+Ulysses-től/Ulysses-től/UNKNOWN jobbra/jobb/MN.SUB noteszok/notesz/FN.PL.NOM ,/,/WPUNCT fényképhalmok/fényképhalom/FN.PL.NOM ,/,/WPUNCT színes/színes/MN.NOM ceruzák/ceruza/FN.PL.NOM hevernek/hever/IGE.t3 ,/,/WPUNCT egy/egy/SZN.NOM köcsögben/köcsög/FN.INE újabb/új/MN._FOK.NOM tollak/toll/FN.PL.NOM és/és/KOT színes/színes/MN.NOM ceruzák/ceruza/FN.PL.NOM ,/,/WPUNCT vagy/vagy/KOT száz/száz/SZN.NOM darab/darab/FN.NOM ././SPUNCT
+-/-/WPUNCT A/a/DET beszéd/beszéd/FN.NOM már/már/HA fizikai/fizikai/MN.NOM fájdalommá/fájdalom/FN.FAC aljasodott/aljasodik/IGE.Me3 a/a/DET torkában/torok/FN.PSe3.INE ././SPUNCT
+Elkezdi/elkezd/IK.IGE.Te3 osztályozni/osztályoz/IGE.INF
+E/e/DET_NM kesernyés/kesernyés/MN.NOM szóváltásnak/szóváltás/FN.DAT az/az/DET asszony/asszony/FN.NOM vetett/vet/IGE.Me3 véget/vég/FN.ACC ././SPUNCT
+-/-/WPUNCT Miért/amiért|miért/HA_NM|HA_NM nézel/néz/IGE.e2 olyan/olyan/MN_NM.NOM mereven/mereven/HA ,/,/WPUNCT Ugrifüles/ugrifüles/TULN.NOM ?/?/SPUNCT
+Néhány/néhány/SZN.NOM hét/hét/FN.NOM múltán/múltán/NU az/az/DET utolsó/utolsó/MN.NOM látogatás/látogatás/FN.NOM óta/óta/NU ,/,/WPUNCT ismét/ismét/HA a/a/DET legelésző/legelész/IGE._OKEP.NOM nyáj/nyáj/FN.NOM felé/felé/NU tartott/tart/IGE.Me3 a/a/DET_NM grófi/grófi/MN.NOM hintó/hintó/FN.NOM ././SPUNCT
+Az/az/DET utasítás/utasítás/FN.NOM késik/késik/IGE.e3 ././SPUNCT
+a/a/DET_NM bányászaszályról/bányászaszály/FN.DEL csak/csak/HA a/a/DET XIX./XIX/MN.NOM század/század/FN.NOM második/második/MN.NOM felében/fél/SZN.PSe3.INE születtek/születik/IGE.Mt3 tanulmányok/tanulmány/FN.PL.NOM dr./dr./FN.NOM Tóth_Imre/Tóth_Imre/TULN.NOM tollából/toll/FN.PSe3.ELA ././SPUNCT
+1766-1767-ben/1766-1767/SZN_DIGIT.INE ,/,/WPUNCT veszprémi/veszprémi/MN.NOM tanárkodása/tanárkodás/FN.PSe3.NOM idején/idő/FN.PSe3.SUP készítette/készít/IGE.TMe3 el/el/IK a/a/DET Veszprém/Veszprém/TULN.NOM városának/város/MN.PSe3.DAT nyájas/nyájas/MN.NOM leírását/leírás/FN.PSe3.ACC ././SPUNCT
+Mentőautó/mentőautó/FN.NOM szirénázik/szirénázik/IGE.e3 ././SPUNCT
+A/a/DET Nagy_Szent_Bazil-rendnek/Nagy_Szent_Bazil-rend/TULN.DAT két/két/SZN.NOM kolostora/kolostor/FN.PSe3.NOM is/is/HA működött/működik/IGE.Me3 ,/,/WPUNCT az/az/FN_NM.NOM egyik/egyik/MN_NM.NOM Veszprémben/Veszprém/TULN.INE ,/,/WPUNCT a/a/DET másik/másik/MN_NM.NOM Dunapentelén/Dunapentele/TULN.SUP ././SPUNCT
+A/a/DET selmeci/selmeci/MN.NOM lipótaknai/lipótaknai/UNKNOWN vízemelő/vízemelő/MN.NOM s/s/KOT a/a/DET bélabányai/bélabányai/UNKNOWN vízoszlop-zúzó/vízoszlop-zúzó/MN.NOM erőgépek/erőgép/FN.PL.NOM az/az/DET ő/ő/FN.NOM tervei/terv/FN.PSe3i.NOM alapján/alapján/NU épültek/épül/IGE.Mt3 "//WPUNCT ././SPUNCT
+-/-/WPUNCT Engem/én/FN_NM.e1.ACC csak/csak/HA egyszer/egyszer/HA csaptak/csap/IGE.Mt3 be/be/IK a/a/DET zalaszentgróti/zalaszentgróti/MN.NOM ökrök/ökör/FN.PL.NOM ././SPUNCT
+Kezemből/kéz/FN.PSe1.ELA kiesik/kiesik/IK.IGE.e3 a/a/DET talicska/talicska/FN.NOM fogója/fogó/FN.PSe3.NOM ././SPUNCT
+Még/még/HA !/!/WPUNCT -/-/WPUNCT mondja/mond/IGE.Te3 az/az/DET igazgató/igazgató/FN.NOM bácsi/bácsi/FN.NOM ././SPUNCT
+Magam/maga/FN_NM.e1.NOM is/is/HA kipróbáltam/kipróbál/IK.IGE.TMe1 a/a/DET módszert/módszer/FN.ACC ././SPUNCT
+-/-/WPUNCT Nagyon/nagyon/HA jól/jól/HA ,/,/WPUNCT Borzsák/borzsák/TULN.NOM úr/úr/FN.NOM ,/,/WPUNCT csak/csak/HA egyetlen/egyetlen/SZN.NOM családot/család/FN.ACC kellett/kell/IGE.Me3 etetnem/etet/IGE.INRe1 ././SPUNCT
+Az/az/DET egyén/egyén/FN.NOM lélektani/lélektani/MN.NOM torzulásai/torzulás/FN.PSe3i.NOM helyett/helyett/NU a/a/DET huszadik/huszadik/MN.NOM századét/század/FN.POS.ACC kényszerülök/kényszerül/IGE.e1 átélni/átél/IK.IGE.INF ././SPUNCT
+Ezt/ez|ez/FN_NM.ACC|DET_NM.ACC szeretném/szeret/IGE.TFe1 látni/lát/IGE.INF ,/,/WPUNCT ezt/ez|ez/FN_NM.ACC|DET_NM.ACC a/a/DET földig/föld/FN.TER görnyedő/görnyed/IGE._OKEP.NOM meghajlást/meghajlás/FN.ACC a/a/DET cár/cár/FN.NOM trónusa/trónus/FN.PSe3.NOM előtt/előtt/NU ././SPUNCT
+így/így/HA_NM korholja/korhol/IGE.Te3 Nyúl_Lexit/Nyúl_Lexi/TULN.ACC :/:/SPUNCT
+Lassanként/lassanként/HA kúszott/kúszik/IGE.Me3 bennem/én/FN_NM.INE.e1 a/a/DET melegség/melegség/FN.NOM felfelé/felfelé/HA ,/,/WPUNCT a/a/FN_NM.NOM lábujjaimtól/lábujj/FN.PSe1i.ABL ././SPUNCT
+A/a/DET kisiskolák/kisiskola/FN.PL.NOM tanítóira/tanító/FN.PSe3i.SUB ,/,/WPUNCT főleg/főleg/HA az/az/DET igazgatókra/igazgató/FN.PL.SUB rengeteg/rengeteg/MN.NOM írásbeli/írásbeli/MN.NOM feladat/feladat/FN.NOM elvégzése/elvégzés/FN.PSe3.NOM hárult/hárul/IGE.Me3 :/:/WPUNCT törzskönyvek/törzskönyv/FN.PL.NOM ,/,/WPUNCT anyakönyvi/anyakönyvi/MN.NOM lapok/lap/FN.PL.NOM ,/,/WPUNCT előmeneteli/előmeneteli/MN.NOM és/és/KOT mulasztási/mulasztási/MN.NOM naplók/napló/FN.PL.NOM vezetése/vezetés/FN.PSe3.NOM ,/,/WPUNCT tanmenetek/tanmenet/FN.PL.NOM elkészítése/elkészítés/FN.PSe3.NOM ,/,/WPUNCT a/a/DET központilag/központilag/HA meghatározott/meghatároz/IK.IGE._MIB.NOM tanterv/tanterv/FN.NOM heti/heti/MN.NOM és/és/KOT havi/havi/MN.NOM tananyagbeosztása/tananyagbeosztás/FN.PSe3.NOM ,/,/WPUNCT órarendek/órarend/FN.PL.NOM összehangolása/összehangolás/FN.PSe3.NOM ,/,/WPUNCT tantestületi/tantestületi/MN.NOM értekezletek/értekezlet/FN.PL.NOM jegyzőkönyveinek/jegyzőkönyv/FN.PSe3i.DAT vezetése/vezetés/FN.PSe3.NOM ,/,/WPUNCT a/a/DET szülői/szülői/MN.NOM értekezletek/értekezlet/FN.PL.NOM jegyzőkönyvei/jegyzőkönyv/FN.PSe3i.NOM ,/,/WPUNCT határidőnapló/határidőnapló/FN.NOM ,/,/WPUNCT postakönyv/postakönyv/FN.NOM ,/,/WPUNCT leltárak/leltár/FN.PL.NOM ügyvitele/ügyvitel/FN.PSe3.NOM ././SPUNCT
+Az/az/DET átkelőhelyen/átkelőhely/FN.SUP jelzőlámpa/jelzőlámpa/FN.NOM irányítja/irányít/IGE.Te3 a/a/DET forgalmat/forgalom/FN.ACC ././SPUNCT
+Nyaranta/nyaranta/HA a/a/DET világot/világ/FN.ACC járja/jár/IGE.Te3 ,/,/WPUNCT a/a/DET közép-európai/közép-európai/MN.NOM csaták/csata/FN.PL.NOM színhelyét/színhely/FN.PSe3.ACC :/:/WPUNCT Nándorfehérvár/Nándorfehérvár/TULN.NOM ,/,/WPUNCT Mohács/Mohács/TULN.NOM ,/,/WPUNCT Fehérhegy/Fehérhegy/TULN.NOM ,/,/WPUNCT Segesvár/Segesvár/TULN.NOM és/és/KOT így/így/HA_NM tovább/tovább/HA ././SPUNCT
+sosem/sosem/HA gondoltuk/gondol/IGE.TMt1 végig/végig/IK az/az/DET egyenrangúság/egyenrangúság/FN.NOM logikája/logika/FN.PSe3.NOM szerint/szerint/NU ././SPUNCT
+A/a/DET téma/téma/FN.NOM első/első/MN.NOM körbenyargalása/körbenyargalás/FN.PSe3.NOM mindkettőnket/mindkettő/SZN.PSt1.ACC megnyugtatott/megnyugtat/IK.IGE._MIB.NOM :/:/WPUNCT politikai/politikai/MN.NOM gondok/gond/FN.PL.NOM nem/nem/HA tornyosulnak/tornyosul/IGE.t3 elénk/elé/NU.t1 ,/,/WPUNCT mint/mint/KOT előző/előző/MN.NOM filmjeinknél/film/FN.PSt1i.ADE ././SPUNCT
+Abban/az|az/DET_NM.INE|FN_NM.INE a/a/DET halszegény/halszegény/MN.NOM időben/idő/FN.INE nála/ő/FN_NM.ADE.e3 hetenként/hetenként/HA főztek/főz/IGE.Mt3 halászlét/halászlé/FN.ACC ././SPUNCT
+Legtöbb/sok/FF.SZN._FOK.NOM esetben/eset/FN.INE a/a/DET menyasszonyi/menyasszonyi/MN.NOM táncra/tánc/FN.SUB ,/,/WPUNCT a/a/DET menyasszony/menyasszony/FN.NOM cipőjének/cipő/FN.PSe3.DAT ellopására/ellopás/FN.PSe3.SUB és/és/KOT kiváltására/kiváltás/FN.PSe3.SUB is/is/HA sor/sor/FN.NOM került/kerül/IGE.Me3 ././SPUNCT
+írta/ír/IGE.TMe3 a/a/DET mezőgazdász/mezőgazdász/FN.NOM ././SPUNCT
+Csak/csak/HA úgy/úgy/HA_NM mellesleg/mellesleg/HA ,/,/WPUNCT ilyesféle/ilyesféle/MN_NM.NOM műsortípusokat/műsortípus/FN.PL.ACC látva/lát/IGE._HIN jut/jut/IGE.e3 eszembe/ész|esz/FN.PSe1.ILL|FN.PSe1.ILL ,/,/WPUNCT
+Két/két/SZN.NOM árkot/árok/FN.ACC láttunk/lát/IGE.Mt1 ././SPUNCT
+Nyári/nyári/MN.NOM reggeleken/reggel/FN.PL.SUP együtt/együtt/NU kél/kél/IGE.e3 a/a/DET nappal/nap/FN.INS ././SPUNCT
+A/a/DET kántorrész/kántorrész/FN.NOM jó/jó/MN.NOM évben/év/FN.INE kitesz/kitesz/IK.IGE.e3 tíz/tíz/SZN.NOM hektó/hektó/FN.NOM bort/bor/FN.ACC ././SPUNCT
+Azt/az|az/DET_NM.ACC|FN_NM.ACC nézd/néz/IGE.TPe2 ,/,/WPUNCT ott/ott/HA_NM az/az/DET ablak/ablak/FN.NOM mellett/mellett/NU ,/,/WPUNCT ez/ez/FN_NM.NOM már/már/HA a/a/DET 81-esen/81-es/FN.SUP ,/,/WPUNCT úgy/úgy/HA_NM hat/hat/SZN.NOM óra/óra/FN.NOM tájt/tájt/NU ,/,/WPUNCT fájront/fájront/FN.NOM felé/felé/NU ,/,/WPUNCT az/az/DET Einsteinova/Einsteinova/UNKNOWN környékén/környék/FN.PSe3.SUP ,/,/WPUNCT a/a/DET sofőr/sofőr/FN.NOM mögött/mögött/NU ,/,/WPUNCT abban/az|az/FN_NM.INE|DET_NM.INE a/a/DET fehér/fehér/MN.NOM harisnyában/harisnya/FN.INE !/!/SPUNCT
+amikor/amikor/KOT a/a/DET járda/járda/FN.NOM épült/épül/IGE.Me3 ././SPUNCT
+Tehát/tehát/KOT Frédi/Frédi/TULN.NOM szabad/szabad/MN.NOM pályát/pálya/FN.ACC kapott/kap/IGE.Me3 ././SPUNCT
+Hogy/hogy/KOT egyszerre/egyszerre/HA mindenkihez/mindenki/FN_NM.ALL szóljon/szól/IGE.Pe3 :/:/WPUNCT nyelvre/nyelv/FN.SUB ,/,/WPUNCT bőrszínre/bőrszín/FN.SUB stb.-re/stb/FN.SUB való/való/MN.NOM tekintet/tekintet/FN.NOM nélkül/nélkül/NU ././SPUNCT
+Nagy_Elek/Nagy_Elek/TULN.NOM sem/sem/HA tudott/tud/IGE.Me3 jönni/jön/IGE.INF ././SPUNCT
+Ott/ott/HA_NM senki/senki/FN_NM.NOM sem/sem/HA talál/talál/IGE.e3 meg/meg/IK ././SPUNCT
+Egy/egy/SZN.NOM kisebb/kicsi/MN._FOK.NOM képen/kép/FN.SUP az/az/DET öregem/öregem/FN.NOM szíve/szív/FN.PSe3.NOM tájékán/tájék/FN.PSe3.SUP kis/kis/MN.NOM kör/kör/FN.NOM alakú/alakú/MN.NOM képről/kép/FN.DEL Lujza/Lujza/TULN.NOM mosolyogva/mosolyog/IGE._HIN tekintett/tekint/IGE.Me3 le/le/IK reánk/mi/FN_NM.SUB.t1 ././SPUNCT
+A/a/DET templomajtó/templomajtó/FN.NOM elé/elé/NU kocsmabejárat/kocsmabejárat/FN.NOM táncol/táncol/IGE.e3 ,/,/WPUNCT Szipcsay_Alajos/Szipcsay_Alajos/TULN.NOM vendéglője/vendéglő/FN.PSe3.NOM ././SPUNCT
+Délután/délután|délután|délután/FN._TMP_INL.NOM|FN._TMP_INL|HA hárman/hárman/HA vágtunk/vág/IGE.Mt1 neki/ő/FN_NM.DAT.e3 a/a/DET kirándulásnak/kirándulás/FN.DAT ././SPUNCT
+A/a/DET rendőrségi/rendőrségi/MN.NOM vizsgálatig/vizsgálat/FN.TER amúgy/amúgy/HA_NM sem/sem/HA tehetünk/tehet/IGE.t1 semmit/semmi/FN.ACC ././SPUNCT
+Miki/Miki/FN.NOM sört/sör/FN.ACC hozott/hoz/IGE.Me3 a/a/DET kamrából/kamra/FN.ELA ././SPUNCT
+A/a/DET nagyhanáki/nagyhanáki/UNKNOWN római/római/MN.NOM katolikus/katolikus/MN.NOM elemi/elemi/MN.NOM iskola/iskola/FN.NOM két/két/SZN.NOM helyiségből/helyiség/FN.ELA állott/áll/IGE.Me3 ././SPUNCT
+a/a/DET diploma/diploma/FN.NOM megszerzése/megszerzés/FN.PSe3.NOM után/után/NU a/a/DET főiskolán/főiskola/FN.SUP maradtam/marad/IGE.Me1 tanársegédként/tanársegéd/FN.FOR ././SPUNCT
+-/-/WPUNCT S/s/KOT már/már/HA el/el/IK is/is/HA tűnt/tűnik/IGE.Me3 az/az/DET országhatár/országhatár/FN.NOM felé/felé/NU az/az/DET autó/autó/FN.NOM látomása/látomás/FN.PSe3.NOM ././SPUNCT
+Április-májusban/április-május/FN.INE minden/minden/DET évben/év/FN.INE teljes/teljes/MN.NOM halászati/halászati/MN.NOM és/és/KOT horgászati/horgászati/MN.NOM tilalmat/tilalom/FN.ACC kellene/kell/IGE.Fe3 elrendelni/elrendel/IK.IGE.INF ././SPUNCT
+Elnézed/elnéz/IK.IGE.Te2 a/a/DET tétova/tétova/MN.NOM teremtést/teremtés/FN.ACC anélkül/anélkül/HA_NM ,/,/SPUNCT
+A/a/DET meglepetés/meglepetés/FN.NOM első/első/MN.NOM pillanatai/pillanat/FN.PSe3i.NOM után/után/NU próbáltam/próbál/IGE.TMe1 józanul/józanul/HA fontolóra/fontoló/FN.SUB venni/vesz/IGE.INF a/a/DET helyzetet/helyzet/FN.ACC ././SPUNCT
+Ezért/ez|ez/DET_NM.CAU|FN_NM.CAU is/is/HA nem/nem/HA akarok/akar/IGE.e1 én/én/FN_NM.e1.NOM innen/innen/HA_NM elmenni/elmegy/IK.IGE.INF ././SPUNCT
+hogy/hogy/KOT a/a/DET magyarság/magyarság/FN.NOM érzelmeit/érzelem/FN.PSe3i.ACC támadó/támad/IGE._OKEP.NOM vádakra/vád/FN.PL.SUB válaszoljak/válaszol/IGE.Pe1 ././SPUNCT
+amit/ami/FN_NM.ACC utoljára/utoljára/HA hallottam/hallik/IGE.TMe1 tőle/ő/FN_NM.ABL.e3 ././SPUNCT
+A/a/DET_NM rosszat/rossz/MN.ACC ,/,/WPUNCT az/az/DET idegent/idegen/FN.ACC kiveti/kivet/IK.IGE.Te3 magából/maga/FN_NM.e3.ELA a/a/DET lélek/lélek/FN.NOM :/:/WPUNCT
+Ez/ez/FN_NM.NOM elhatározása/elhatározás/FN.PSe3.NOM testi/testi/MN.NOM fogyatkozásom/fogyatkozás/FN.PSe1.NOM és/és/KOT gyönge/gyönge/MN.NOM külsőm/külső/FN.PSe1.NOM miatt/miatt/NU ,/,/WPUNCT de/de/KOT talán/talán/HA a/a/DET rendelkezésre/rendelkezés/FN.SUB álló/áll/IGE._OKEP.NOM összeg/összeg/FN.NOM csekély/csekély/MN.NOM volta/volta/FN.PSe3.NOM miatt/miatt/NU is/is/HA ,/,/WPUNCT bizalmatlanságot/bizalmatlanság/FN.ACC ,/,/WPUNCT sőt/sőt/KOT visszatetszést/visszatetszés/FN.ACC keltett/kelt/IGE.Me3 az/az/DET Akadémia/akadémia/FN.NOM egyes/egyes/MN.NOM tagjaiban/tag/FN.PSe3i.INE ././SPUNCT
+-/-/WPUNCT Né/né/ISZ ,/,/WPUNCT nézzük/néz/IGE.Tt1 csak/csak/HA ,/,/WPUNCT Janika/Janika/TULN.NOM !/!/SPUNCT
+A/a/DET világtengereken/világtenger/FN.PL.SUP Magyarország/Magyarország/TULN.NOM is/is/HA közlekedtet/közlekedtet/IGE.e3 néhány/néhány/SZN.NOM tengeri/tengeri/MN.NOM hajót/hajó/FN.ACC ,/,/WPUNCT
+Már/már/HA kisebb/kicsi/MN._FOK.NOM fajta/fajta/MN.NOM politikai/politikai/MN.NOM botrányokat/botrány/FN.PL.ACC robbant/robban/IGE.Me3 ki/ki/IK ././SPUNCT
+A/a/DET lovak/ló/FN.PL.NOM néhol/néhol/HA_NM térdig/térd/FN.TER gázoltak/gázol/IGE.Mt3 a/a/DET rózsatengerben/rózsatenger/FN.INE ././SPUNCT
+Nekem/én/FN_NM.DAT.e1 szívemen/szív/FN.PSe1.SUP alszik/alszik/IGE.e3 ez/ez/DET_NM.NOM a/a/DET táj/táj/FN.NOM ././SPUNCT
+Megszégyenítve/megszégyenít/IK.IGE._HIN kísérgetnek/kísérget/IGE.t3 Csap/Csap|csap/TULN.NOM|TULN.NOM romhalmaz/romhalmaz/FN.NOM utcáin/utca/FN.PSe3i.SUP ././SPUNCT
+az/az/DET álmot/álom/FN.ACC amit/ami/FN_NM.ACC lát/lát/IGE.e3 a/a/DET kisgyerek/kisgyerek/FN.NOM
+Mit/mit/HA_NM beszéltek/beszél/IGE.Mt3 ki/ki/IK ,/,/WPUNCT motyogók/motyog/IGE._OKEP.PL.NOM ?/?/SPUNCT
+Mereven/mereven/HA ,/,/WPUNCT jeges/jeges/MN.NOM szárnyakkal/szárny/FN.PL.INS hullott/hullik/IGE.Me3 a/a/DET hóba/hó/FN.ILL ././SPUNCT
+Katzenzeug/Katzenzeug/UNKNOWN ,/,/WPUNCT kiáltotta/kiált/IGE.TMe3 a/a/DET férfi/férfi/FN.NOM ././SPUNCT
+Maga/maga/FN_NM.e3.NOM sem/sem/HA tudta/tud/IGE.TMe3 ,/,/WPUNCT miért/amiért|miért/HA_NM|HA_NM ././SPUNCT
+Kevés/kevés/SZN.NOM ilyen/ilyen/MN_NM.NOM szép/szép/MN.NOM tájleírást/tájleírás/FN.ACC olvashatunk/olvashat/IGE.t1 ././SPUNCT
+A/a/DET holló/holló/FN.NOM vájja/váj/IGE.Te3 ki/ki/IK a/a/DET szemét/szem/FN.POS.ACC !/!/SPUNCT
+A/a/DET porceláncserepek/porceláncserép/FN.PL.NOM között/között/NU megbarnult/megbarnul/IK.IGE._MIB.NOM papírtekercset/papírtekercs/FN.ACC fedeztem/fedezik/IGE.Me1 fel/fel/IK ././SPUNCT
+Elindultak/elindul/IK.IGE.Mt3 a/a/DET parti/parti/MN.NOM sétányon/sétány/FN.SUP ././SPUNCT
+Te/te/FN_NM.e2.NOM is/is/HA éppen/éppen/HA így/így/HA_NM gondolkodol/gondolkodol/UNKNOWN ,/,/WPUNCT én/én/FN_NM.e1.NOM tudom/tud/IGE.Te1 ././SPUNCT
+A/a/DET csatavesztés/csatavesztés/FN.NOM lehetősége/lehetőség/FN.PSe3.NOM riasztó/riasztó/FN.NOM árnyékkal/árnyék/FN.INS borítaná/borít/IGE.TFe3 ././SPUNCT
+Az/az/DET egyikben/egyik/MN_NM.INE kucorgott/kucorog/IGE.Me3 az/az/DET ősz/ősz/FN.NOM ,/,/WPUNCT a/a/DET másikban/másik/MN_NM.INE a/a/DET tél/tél/FN.NOM ,/,/WPUNCT a/a/DET harmadikban/harmadik/MN.INE a/a/DET tavasz/tavasz/FN.NOM ././SPUNCT
+Imola/imola|Imola/FN.NOM|FN.NOM megkérdezte/megkérdez/IK.IGE.TMe3 :/:/SPUNCT
+Elmállani/elmállik/IK.IGE.INF szállnék/száll/IGE.Fe1 ?/?/SPUNCT
+Azokra/az|az/FN_NM.PL.SUB|DET_NM.PL.SUB is/is/HA ,/,/WPUNCT amelyeket/amely/FN_NM.PL.ACC mások/más|más/FN_NM.PL.NOM|MN_NM.PL.NOM ellen/ellen/NU ,/,/WPUNCT s/s/KOT azokra/az|az/DET_NM.PL.SUB|FN_NM.PL.SUB is/is/HA ,/,/WPUNCT amelyeket/amely/FN_NM.PL.ACC magunk/maga/FN_NM.t1.NOM ellen/ellen/NU követtünk/követ/IGE.Mt1 el/el/IK ././SPUNCT
+Ne/ne/HA vétkezzünk/vétkezik/IGE.Pt1 ,/,/WPUNCT emberek/ember/FN.PL.NOM !.../!.../SPUNCT
+Érthetetlen/érthetetlen/MN.NOM nyelvű/nyelvű/MN.NOM kiabálását/kiabálás/FN.PSe3.ACC az/az/DET emberek/ember/FN.PL.NOM elengedték/elenged/IK.IGE.TMt3 a/a/DET fülük/fül/FN.PSt3.NOM mellett/mellett/NU ././SPUNCT
+Foggal-körömmel/fog-köröm/FN.INS igyekeztem/igyekszik/IGE.Me1 hát/hát/HA Budapestre/Budapest/TULN.SUB ,/,/WPUNCT 
+Végigdőlt/végigdől/IK.IGE._MIB.NOM fekhelyén/fekhely/FN.PSe3.SUP ,/,/WPUNCT és/és/KOT nyitott/nyit/IGE._MIB.NOM szemmel/szem/FN.INS bámult/bámul/IGE.Me3 a/a/DET sötétségbe/sötétség/FN.ILL ././SPUNCT
+A/a/DET_NM segélyakcióval/segélyakció/FN.INS kapcsolatosan/kapcsolatosan/HA Csenke/Csenke/TULN.NOM község/község/FN.NOM bírója/bíró/FN.PSe3.NOM idős/idős/MN.NOM Sáhó_Lajos/Sáhó_Lajos/TULN.NOM az/az/DET alábbi/alábbi/MN.NOM értesítést/értesítés/FN.ACC küldte/küld/IGE.TMe3 a/a/DET körjegyzőségi/körjegyzőségi/MN.NOM hivatalba/hivatal/FN.ILL :/:/SPUNCT
