@@ -1,4 +1,4 @@
-# YAML configuration file for the RISK SCORE 
+# YAML configuration file for the nom-or-what algorithm 
 
 macros:
     nu_mn:
