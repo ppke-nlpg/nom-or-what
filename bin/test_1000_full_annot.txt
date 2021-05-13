@@ -2106,7 +2106,7 @@ légtornász légtornász FN.nom
 
 159: Virágok : szökőkutak robbannak rögökből , földből . # #
 -Virágok : szökőkutak
-Virágok Virág|virág FN.PL.nulla|FN.PL.nom
+Virágok Virág|virág FN.PL.nom|FN.PL.nom
 Virágok Virág|virág FN.PL.nulla|FN.PL.nulla
 Virágok Virág|virág FN.PL.nulla|FN.PL.nulla
 -szökőkutak robbannak rögökből

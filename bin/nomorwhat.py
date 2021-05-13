@@ -1,29 +1,10 @@
 import re
 
-def readtext(inp_fname):
-    """
-    read input file of test sentences
-    sentence / line
-    appends end-of-sentence characters
-
-    :return: list of sentences
-    """
-
-    endofsent = ['#', '#', '#']
-    sents = []
-    with open(inp_fname, encoding='UTF-8') as infile:
-        for line in infile:
-            sentencelist = []
-            sent = line.strip().split(' ')
-            for word in sent:
-                sentencelist.append(word.split('/'))
-            sentencelist.append(endofsent)  # XXX This is the same list as one line below
-            sentencelist.append(endofsent)
-            sents.append(sentencelist)
-
-    return sents
 
 def format_sents(s):
+    """ Takes a string (a sentence) and returns it as a list of token/lemma/annotation.
+    Also appends end of sentence characters to each sentence.
+    """
     endofsent = ['#', '#', '#']
     sents = []
     sent = s.strip().split(' ')
@@ -33,9 +14,12 @@ def format_sents(s):
     sents.append(endofsent)
     return sents
 
+
 def check_macro(macro_name, anal):
+    """
+    
+    """
     macro_res = False
-    # print(macro_name, anal)
     if macros['macros'][macro_name]['type'] == 'list':
         if anal[0] in macros['macros'][macro_name]['value']:
             macro_res = True
@@ -52,39 +36,42 @@ def check_macro(macro_name, anal):
         if macros['macros'][macro_name]['compl_type'] == 'and': 
             all_true = True
             for macro in macros['macros'][macro_name]['sub_macros']:
-                if not check_macro(macro,anal):
+                if not check_macro(macro, anal):
                     all_true = False
                     break
             macro_res = all_true
         elif macros['macros'][macro_name]['compl_type'] == 'or':
             one_true = False
             for macro in macros['macros'][macro_name]['sub_macros']:
-                if check_macro(macro,anal):
+                if check_macro(macro, anal):
                     one_true = True
                     break
             macro_res = one_true
     elif macros['macros'][macro_name]['type'] == 'neg':
-        macro_res = not check_macro(macros['macros'][macro_name]['sub_macro'],anal)
+        macro_res = not check_macro(macros['macros'][macro_name]['sub_macro'], anal)
             
     return macro_res
+
 
 def NUM_rules(window, curr_POS):
     first_right_word, first_right_lemma, first_right_annot = window[0]
     second_right_word, second_right_lemma, second_right_annot = window[1]
     
-    if re.search("FN|SZN|MN|NU", first_right_annot): # if the next token is a nominal, or a postposition, the word gets a "none"
+    if re.search("FN|SZN|MN|NU", first_right_annot):  # if the next token is a nominal, or a postposition,
+        # the word gets a "none"
         curr_POS = curr_POS.replace('NOM', 'semmi')
         
-    elif check_macro('not_kop_v', window[0]): # if the next token is verb, but not a copula, the word is a nominative
+    elif check_macro('not_kop_v', window[0]):  # if the next token is verb, but not a copula, the word is a nominative
         curr_POS = curr_POS.replace('NOM', 'nom')
         
-    elif check_macro('def_art', window[0]): # or re.search('HA', first_right_annot): # if the next token is a definite article or an adverb, the word is a nominative
+    elif check_macro('def_art', window[0]):  # or re.search('HA', first_right_annot): # if the next token is
+        # a definite article or an adverb, the word is a nominative
         curr_POS = curr_POS.replace('NOM', 'nom')
 
-        
     else:
         curr_POS = curr_POS.replace('NOM', 'defsemmi')
-        if check_macro('PUNCT', window[1]) or check_macro('def_art', window[1]) or re.search('HA', second_right_annot) or check_macro('V', window[1]):
+        if check_macro('PUNCT', window[1]) or check_macro('def_art', window[1]) or re.search('HA', second_right_annot) \
+                or check_macro('V', window[1]):
             curr_POS = curr_POS.replace('defsemmi', 'semmi')
         
     return curr_POS
@@ -95,26 +82,27 @@ def ADJ_rules(window, curr_POS):
     # print(window)
     second_right_word, second_right_lemma, second_right_annot = window[1]
     
-    if check_macro('NUs', window[0]): # if the next token is postposition(al like element), the word gets a 'none'
+    if check_macro('NUs', window[0]):  # if the next token is postposition(al like element), the word gets a 'none'
         curr_POS = curr_POS.replace('NOM', 'semmi')
     
-    elif check_macro('not_kop_v', window[0]): # if the next token is a verb, but not a copula, the word is a nominative
+    elif check_macro('not_kop_v', window[0]):  # if the next token is a verb, but not a copula, the word is a nominative
         curr_POS = curr_POS.replace('NOM', 'nom')
     
-    elif check_macro('szn', window[0]): # before a numeral: default value
+    elif check_macro('szn', window[0]):  # before a numeral: default value
         curr_POS = curr_POS.replace('NOM', 'nulla')
         
-        if check_macro('PSE', window[1]): # if the second token has a poss. suff.
+        if check_macro('PSE', window[1]):  # if the second token has a poss. suff.
             curr_POS = curr_POS.replace('nulla', 'gen')
-        else: # otherwise
+        else:  # otherwise
             curr_POS = curr_POS.replace('nulla', 'nom')
     
-    elif check_macro('full_stop', window[0]): # if the next token is a fix outsider, this word must be the end of an NP, thus 'nom'
+    elif check_macro('full_stop', window[0]):  # if the next token is a fix outsider, this word must be the end of an NP,
+        # thus 'nom'
         curr_POS = curr_POS.replace('NOM', 'nom')
     
-    else: # otherwise
+    else:  # otherwise
         curr_POS = curr_POS.replace('NOM', 'defsemmi')
-        if check_macro('full_stop', window[1]) or check_macro('V', window[1]):# or check_macro('esetragos', window[1]): # if there is a punct.mark in the window
+        if check_macro('full_stop', window[1]) or check_macro('V', window[1]):  # if there is a punct.mark in the window
             curr_POS = curr_POS.replace('defsemmi', 'semmi')
             
     return curr_POS
@@ -151,18 +139,17 @@ def NOUN_rules(window, curr_POS, curr_word, token):
                                                                                            window[1]) or re.search(
                 'PSe3', curr_POS):
             curr_POS = curr_POS.replace('nulla', 'nom')
-            # print('V')
+            #  print('V')
     elif check_macro('full_stop', window[0]) or first_right_word == ':' or first_right_word == '!':
         curr_POS = curr_POS.replace('NOM', 'nom')
-        # print('fullstop')
+        #  print('fullstop')
     else:
         curr_POS = curr_POS.replace('NOM', 'nulla')
 
-        if check_macro('V', window[1]) or check_macro('PUNCT', window[1]) or check_macro('vonatk',
-                                                                                         window[1]) or re.search('PSe3',
-                                                                                                                 curr_POS) or second_right_word == "#":
+        if check_macro('V', window[1]) or check_macro('PUNCT', window[1]) or check_macro('vonatk', window[1]) or \
+                re.search('PSe3', curr_POS) or second_right_word == "#":
             curr_POS = curr_POS.replace('nulla', 'nom')
-            # print('masoikV')
+            #  print('masoikV')
 
     return curr_POS
 
@@ -197,8 +184,8 @@ def nom_or_what(s, macro):
                     curr_POS = NUM_rules(window, curr_POS)
 
                 new_token = curr_word + ' ' + curr_lemma + ' ' + curr_POS
-                to_write_later.append((window,
-                                       new_token))  # a tuple of the window of the given token and the full (novel) annotation of the token
+                to_write_later.append((window, new_token))  # a tuple of the window of the given token and
+                # the full (novel) annotation of the token
 
         new_sent.append(curr_word + '/' + curr_lemma + '/' + curr_POS)
 
@@ -207,12 +194,18 @@ def nom_or_what(s, macro):
     # print(' '.join(new_sent))
 
 
-def write_to_annot_file(new_sent, window, outp, i):
+def write_to_annot_file(new_sent, to_write, outp, i):
+    """
+    Function to write the sentences into a file preparing it for the manual annotation.
+    
+    param:
+    new_sent: A sentence as a list of tokens as word/lemma/tag.
+    to_write: A list containing tuples of the windows and the annotations of the suffixless nominals.
+    outp: The output file.
+    i: The number of the current sentence.
+    """
     outp.writelines(str(i) + '. ' + ' '.join([token.split('/')[0] for token in new_sent]) + '\n')
     [outp.writelines(
         ('-' + nom.split()[0] + ' ' + window[0][0] + ' ' + window[1][0] + '\n', nom + '\n', nom + '\n', nom + '\n')) for
      (window, nom) in to_write]
     outp.writelines(('\n', '\n'))
-
-
-

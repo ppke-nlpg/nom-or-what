@@ -18,7 +18,7 @@ Lázár Lázár TULN.semmi
 -nevű titkára készítette
 nevű nevű MN.semmi
 nevű nevű MN.semmi
-nevű nevű MN.defsemmi
+nevű nevű MN.semmi
 -titkára készítette ,
 titkára titkár FN.PSe3.nom
 titkára titkár FN.PSe3.nom
@@ -27,16 +27,6 @@ titkára titkár FN.PSe3.nom
 1510-es 1510-es MN.semmi
 1510-es 1510-es MN.semmi
 1510-es 1510-es MN.semmi
-
- 
-2: Ha jót cselekszem. # #
- 
- 
-3: A délutáni napban képzelődhettem . # #
--délutáni napban képzelődhettem
-délutáni délutáni MN.semmi
-délutáni délutáni MN.semmi
-délutáni délutáni MN.defsemmi
 
  
 4: Okait e látszattartalomnak nem elsősorban a tehetetlenségben találnánk meg , hanem az ideológiai megkötöttségekben , a sajtó függetlenségét és szabadságát is korlátozó központi vezérlésben . # #
@@ -56,13 +46,6 @@ korlátozó korlátoz IGE._OKEP.defsemmi
 központi központi MN.semmi
 központi központi MN.semmi
 központi központi MN.semmi
-
- 
-5: Sokszor én is belecsúszok abba a hibába . # #
--én is belecsúszok
-én én FN_NM.e1.nom
-én én FN_NM.e1.nom
-én én FN_NM.e1.nom
 
  
 6: Több levelet írt a másik honti jóbarátnak és munkatársnak , Pajor_István 1848_49-es nemzetőrnek , megyei tisztviselőnek , írónak és költőnek is . # #
@@ -118,20 +101,6 @@ patak patak FN.nulla
 patak patak FN.nom
 
  
-9: A " sziget " elnevezés arra utal , . # #
--sziget " elnevezés
-sziget sziget FN.amnk
-sziget sziget FN.amnk
-sziget sziget FN.nulla
--elnevezés arra utal
-elnevezés elnevezés FN.nom
-elnevezés elnevezés FN.nom
-elnevezés elnevezés FN.nom
- 
- 
-10: Azzal érveltem ,  # #
-
- 
 11: Egy magyar paraszt rudazókötélre akasztva lóg a saját diófáján . # #
 -Egy magyar paraszt
 Egy egy SZN.semmi
@@ -144,22 +113,11 @@ magyar magyar MN.defsemmi
 -paraszt rudazókötélre akasztva
 paraszt paraszt MN.postag_hiba
 paraszt paraszt MN.postag_hiba
-paraszt paraszt MN.defsemmi
+paraszt paraszt MN.semmi
 -saját diófáján .
 saját saját MN.semmi
 saját saját MN.semmi
 saját saját MN.semmi
-
- 
-12: A kávéház tulajdonosa unottan támasztotta a pultot . # #
--kávéház tulajdonosa unottan
-kávéház kávéház FN.gen
-kávéház kávéház FN.gen
-kávéház kávéház FN.gen
--tulajdonosa unottan támasztotta
-tulajdonosa tulajdonos FN.PSe3.nom
-tulajdonosa tulajdonos FN.PSe3.nom
-tulajdonosa tulajdonos FN.PSe3.nom
 
  
 13: Én meg is tapogattam . # #
@@ -167,47 +125,6 @@ tulajdonosa tulajdonos FN.PSe3.nom
 Én én FN_NM.e1.nom
 Én én FN_NM.e1.nulla
 Én én FN_NM.e1.nulla
-
- 
-14: A puszták népéről írt könyvével szinte párhuzamosan írja meg szemléletváltoztató tanulmányát Fazekas elfelejtett remekművéről . # #
--puszták népéről írt
-puszták puszta FN.PL.gen
-puszták puszta FN.PL.gen
-puszták puszta FN.PL.gen
--írt könyvével szinte
-írt ír IGE._MIB.semmi
-írt ír IGE._MIB.semmi
-írt ír IGE._MIB.defsemmi
--szemléletváltoztató tanulmányát Fazekas
-szemléletváltoztató szemléletváltoztató MN.semmi
-szemléletváltoztató szemléletváltoztató MN.semmi
-szemléletváltoztató szemléletváltoztató MN.defsemmi
--Fazekas elfelejtett remekművéről
-Fazekas fazekas TULN.gen
-Fazekas fazekas TULN.gen
-Fazekas fazekas TULN.nom
--elfelejtett remekművéről .
-elfelejtett elfelejt IK.IGE._MIB.semmi
-elfelejtett elfelejt IK.IGE._MIB.semmi
-elfelejtett elfelejt IK.IGE._MIB.semmi
-
- 
-15: Én akkoriban soha nem gondolkodtam azon , # #
--Én akkoriban soha
-Én én FN_NM.e1.nom
-Én én FN_NM.e1.nom
-Én én FN_NM.e1.nom
-
- 
-16: Talán csak tíz százalékuk válaszolt magabiztosan igennel . # #
--tíz százalékuk válaszolt
-tíz tíz SZN.semmi
-tíz tíz SZN.semmi
-tíz tíz SZN.semmi
--százalékuk válaszolt magabiztosan
-százalékuk százalék FN.PSt3.nom
-százalékuk százalék FN.PSt3.nom
-százalékuk százalék FN.PSt3.nom
 
  
 17: Csak úgy utalnak a nagy elődre , mint ahogy József_Attila verseiben is ránk nevet Csokonai egy-egy ríme . # #
@@ -233,13 +150,6 @@ ríme rím FN.PSe3.nom
 ríme rím FN.PSe3.nom
 
  
-18: És én is koccintottam az öregemmel . # #
--én is koccintottam
-én én FN_NM.e1.nom
-én én FN_NM.e1.nom
-én én FN_NM.e1.nom
-
- 
 19: Elindul reggel hazulról az ember ingujjasan vagy pulóverben . # #
 -ember ingujjasan vagy
 ember ember FN.nom
@@ -259,7 +169,7 @@ fényképhalmok fényképhalom FN.PL.nulla
 -színes ceruzák hevernek
 színes színes MN.semmi
 színes színes MN.semmi
-színes színes MN.defsemmi
+színes színes MN.semmi
 -ceruzák hevernek ,
 ceruzák ceruza FN.PL.nom
 ceruzák ceruza FN.PL.nom
@@ -302,21 +212,7 @@ beszéd beszéd FN.nulla
 -fizikai fájdalommá aljasodott
 fizikai fizikai MN.semmi
 fizikai fizikai MN.semmi
-fizikai fizikai MN.defsemmi
-
- 
-22: Elkezdi osztályozni # #
-
- 
-23: E kesernyés szóváltásnak az asszony vetett véget . # #
--kesernyés szóváltásnak az
-kesernyés kesernyés MN.semmi
-kesernyés kesernyés MN.defsemmi
-kesernyés kesernyés MN.defsemmi
--asszony vetett véget
-asszony asszony FN.nom
-asszony asszony FN.nom
-asszony asszony FN.nom
+fizikai fizikai MN.semmi
 
  
 24: - Miért nézel olyan mereven , Ugrifüles ? # #
@@ -365,12 +261,6 @@ hintó hintó FN.nom
 hintó hintó FN.nom
 
  
-26: Az utasítás késik . # #
--utasítás késik .
-utasítás utasítás FN.nom
-utasítás utasítás FN.nom
-utasítás utasítás FN.nom
-
  
 27: a bányászaszályról csak a XIX. század második felében születtek tanulmányok dr. Tóth_Imre tollából . # #
 -XIX. század második
@@ -418,13 +308,6 @@ nyájas nyájas MN.semmi
 nyájas nyájas MN.semmi
 
  
-29: Mentőautó szirénázik . # #
--Mentőautó szirénázik .
-Mentőautó mentőautó FN.nom
-Mentőautó mentőautó FN.nom
-Mentőautó mentőautó FN.nom
-
- 
 30: A Nagy_Szent_Bazil-rendnek két kolostora is működött , az egyik Veszprémben , a másik Dunapentelén . # #
 -két kolostora is
 két két SZN.semmi
@@ -437,7 +320,7 @@ kolostora kolostor FN.PSe3.nom
 -az egyik Veszprémben
 az az FN_NM.postag_hiba
 az az FN_NM.postag_hiba
-az az FN_NM.nulla
+az az FN_NM.nom
 -egyik Veszprémben ,
 egyik egyik MN_NM.nom
 egyik egyik MN_NM.defsemmi
@@ -455,12 +338,12 @@ selmeci selmeci MN.defsemmi
 selmeci selmeci MN.defsemmi
 -vízemelő s a
 vízemelő vízemelő MN.semmi
-vízemelő vízemelő MN.defsemmi
-vízemelő vízemelő MN.defsemmi
+vízemelő vízemelő MN.semmi
+vízemelő vízemelő MN.semmi
 -vízoszlop-zúzó erőgépek az
 vízoszlop-zúzó vízoszlop-zúzó MN.semmi
-vízoszlop-zúzó vízoszlop-zúzó MN.defsemmi
-vízoszlop-zúzó vízoszlop-zúzó MN.defsemmi
+vízoszlop-zúzó vízoszlop-zúzó MN.semmi
+vízoszlop-zúzó vízoszlop-zúzó MN.semmi
 -erőgépek az ő
 erőgépek erőgép FN.PL.nom
 erőgépek erőgép FN.PL.nom
@@ -475,61 +358,6 @@ tervei terv FN.PSe3i.semmi
 tervei terv FN.PSe3i.semmi
 
  
-32: - Engem csak egyszer csaptak be a zalaszentgróti ökrök . # #
--zalaszentgróti ökrök .
-zalaszentgróti zalaszentgróti MN.semmi
-zalaszentgróti zalaszentgróti MN.semmi
-zalaszentgróti zalaszentgróti MN.semmi
--ökrök . #
-ökrök ökör FN.PL.nom
-ökrök ökör FN.PL.nom
-ökrök ökör FN.PL.nom
-
- 
-33: Kezemből kiesik a talicska fogója . # #
--talicska fogója .
-talicska talicska FN.gen
-talicska talicska FN.gen
-talicska talicska FN.gen
--fogója . #
-fogója fogó FN.PSe3.nom
-fogója fogó FN.PSe3.nom
-fogója fogó FN.PSe3.nom
-
- 
-34: Még ! - mondja az igazgató bácsi . # #
--igazgató bácsi .
-igazgató igazgató FN.amnk
-igazgató igazgató FN.amnk
-igazgató igazgató FN.nom
--bácsi . #
-bácsi bácsi FN.nom
-bácsi bácsi FN.nom
-bácsi bácsi FN.nom
-
- 
-35: Magam is kipróbáltam a módszert . # #
--Magam is kipróbáltam
-Magam maga FN_NM.e1.nom
-Magam maga FN_NM.e1.nom
-Magam maga FN_NM.e1.nom
-
- 
-36: - Nagyon jól , Borzsák úr , csak egyetlen családot kellett etetnem . # #
--Borzsák úr ,
-Borzsák borzsák TULN.amnk
-Borzsák borzsák TULN.amnk
-Borzsák borzsák TULN.nulla
--úr , csak
-úr úr FN.vok
-úr úr FN.vok
-úr úr FN.nulla
--egyetlen családot kellett
-egyetlen egyetlen SZN.semmi
-egyetlen egyetlen SZN.semmi
-egyetlen egyetlen SZN.semmi
-
- 
 37: Az egyén lélektani torzulásai helyett a huszadik századét kényszerülök átélni . # #
 -egyén lélektani torzulásai
 egyén egyén FN.gen
@@ -537,7 +365,7 @@ egyén egyén FN.gen
 egyén egyén FN.gen
 -lélektani torzulásai helyett
 lélektani lélektani MN.semmi
-lélektani lélektani MN.semmi
+lélektani lélektani MN.defsemmi
 lélektani lélektani MN.defsemmi
 -torzulásai helyett a
 torzulásai torzulás FN.PSe3i.semmi
@@ -546,38 +374,9 @@ torzulásai torzulás FN.PSe3i.semmi
 -huszadik századét kényszerülök
 huszadik huszadik MN.semmi
 huszadik huszadik MN.semmi
-huszadik huszadik MN.defsemmi
+huszadik huszadik MN.semmi
 
  
-38: Ezt szeretném látni , ezt a földig görnyedő meghajlást a cár trónusa előtt . # #
--görnyedő meghajlást a
-görnyedő görnyed IGE._OKEP.semmi
-görnyedő görnyed IGE._OKEP.defsemmi
-görnyedő görnyed IGE._OKEP.defsemmi
--cár trónusa előtt
-cár cár FN.gen
-cár cár FN.gen
-cár cár FN.gen
--trónusa előtt .
-trónusa trónus FN.PSe3.semmi
-trónusa trónus FN.PSe3.semmi
-trónusa trónus FN.PSe3.semmi
-
- 
-39: így korholja Nyúl_Lexit : # #
-
-
-40: Lassanként kúszott bennem a melegség felfelé , a lábujjaimtól . # #
--melegség felfelé ,
-melegség melegség FN.nulla
-melegség melegség FN.nulla
-melegség melegség FN.nulla
--a lábujjaimtól .
-a a FN_NM.postag_hiba
-a a FN_NM.postag_hiba
-a a FN_NM.gen
-
-
 41: A kisiskolák tanítóira , főleg az igazgatókra rengeteg írásbeli feladat elvégzése hárult : törzskönyvek , anyakönyvi lapok , előmeneteli és mulasztási naplók vezetése , tanmenetek elkészítése , a központilag meghatározott tanterv heti és havi tananyagbeosztása , órarendek összehangolása , tantestületi értekezletek jegyzőkönyveinek vezetése , a szülői értekezletek jegyzőkönyvei , határidőnapló , postakönyv , leltárak ügyvitele . # #
 -kisiskolák tanítóira ,
 kisiskolák kisiskola FN.PL.gen
@@ -705,13 +504,6 @@ leltárak leltár FN.PL.gen
 ügyvitele ügyvitel FN.PSe3.nom
 
  
-42: Az átkelőhelyen jelzőlámpa irányítja a forgalmat . # #
--jelzőlámpa irányítja a
-jelzőlámpa jelzőlámpa FN.nom
-jelzőlámpa jelzőlámpa FN.nom
-jelzőlámpa jelzőlámpa FN.nom
-
- 
 43: Nyaranta a világot járja , a közép-európai csaták színhelyét : Nándorfehérvár , Mohács , Fehérhegy , Segesvár és így tovább . # #
 -közép-európai csaták színhelyét
 közép-európai közép-európai MN.semmi
@@ -739,17 +531,6 @@ Segesvár Segesvár TULN.nulla
 Segesvár Segesvár TULN.nulla
 
  
-44: sosem gondoltuk végig az egyenrangúság logikája szerint . # #
--egyenrangúság logikája szerint
-egyenrangúság egyenrangúság FN.gen
-egyenrangúság egyenrangúság FN.gen
-egyenrangúság egyenrangúság FN.gen
--logikája szerint .
-logikája logika FN.PSe3.semmi
-logikája logika FN.PSe3.semmi
-logikája logika FN.PSe3.semmi
-
- 
 45: A téma első körbenyargalása mindkettőnket megnyugtatott : politikai gondok nem tornyosulnak elénk , mint előző filmjeinknél . # #
 -téma első körbenyargalása
 téma téma FN.gen
@@ -770,7 +551,7 @@ megnyugtatott megnyugtat IK.IGE._MIB.defsemmi
 -politikai gondok nem
 politikai politikai MN.semmi
 politikai politikai MN.semmi
-politikai politikai MN.defsemmi
+politikai politikai MN.semmi
 -gondok nem tornyosulnak
 gondok gond FN.PL.nom
 gondok gond FN.PL.nom
@@ -779,13 +560,6 @@ gondok gond FN.PL.nom
 előző előző MN.semmi
 előző előző MN.semmi
 előző előző MN.semmi
-
- 
-46: Abban a halszegény időben nála hetenként főztek halászlét . # #
--halszegény időben nála
-halszegény halszegény MN.semmi
-halszegény halszegény MN.defsemmi
-halszegény halszegény MN.defsemmi
 
  
 47: Legtöbb esetben a menyasszonyi táncra , a menyasszony cipőjének ellopására és kiváltására is sor került . # #
@@ -807,34 +581,6 @@ sor sor FN.nom
 sor sor FN.nom
 
  
-48: írta a mezőgazdász . # #
--mezőgazdász . #
-mezőgazdász mezőgazdász FN.nom
-mezőgazdász mezőgazdász FN.nom
-mezőgazdász mezőgazdász FN.nom
-
- 
-49: Csak úgy mellesleg , ilyesféle műsortípusokat látva jut eszembe , # #
--ilyesféle műsortípusokat látva
-ilyesféle ilyesféle MN_NM.semmi
-ilyesféle ilyesféle MN_NM.defsemmi
-ilyesféle ilyesféle MN_NM.defsemmi
-
- 
-50: Két árkot láttunk . # #
--Két árkot láttunk
-Két két SZN.semmi
-Két két SZN.semmi
-Két két SZN.semmi
-
- 
-51: Nyári reggeleken együtt kél a nappal . # #
--Nyári reggeleken együtt
-Nyári nyári MN.semmi
-Nyári nyári MN.semmi
-Nyári nyári MN.defsemmi
-
- 
 52: A kántorrész jó évben kitesz tíz hektó bort . # #
 -kántorrész jó évben
 kántorrész kántorrész FN.nom
@@ -843,7 +589,7 @@ kántorrész kántorrész FN.nulla
 -jó évben kitesz
 jó jó MN.semmi
 jó jó MN.semmi
-jó jó MN.defsemmi
+jó jó MN.semmi
 -tíz hektó bort
 tíz tíz SZN.semmi
 tíz tíz SZN.semmi
@@ -853,45 +599,7 @@ hektó hektó FN.postag_hiba
 hektó hektó FN.postag_hiba
 hektó hektó FN.nom
 
- 
-53: Azt nézd , ott az ablak mellett , ez már a 81-esen , úgy hat óra tájt , fájront felé , az Einsteinova környékén , a sofőr mögött , abban a fehér harisnyában ! # #
--ablak mellett ,
-ablak ablak FN.semmi
-ablak ablak FN.semmi
-ablak ablak FN.semmi
--ez már a
-ez ez FN_NM.nom
-ez ez FN_NM.nom
-ez ez FN_NM.nulla
--hat óra tájt
-hat hat SZN.semmi
-hat hat SZN.semmi
-hat hat SZN.semmi
--óra tájt ,
-óra óra FN.semmi
-óra óra FN.semmi
-óra óra FN.semmi
--fájront felé ,
-fájront fájront FN.semmi
-fájront fájront FN.semmi
-fájront fájront FN.semmi
--sofőr mögött ,
-sofőr sofőr FN.semmi
-sofőr sofőr FN.semmi
-sofőr sofőr FN.semmi
--fehér harisnyában !
-fehér fehér MN.semmi
-fehér fehér MN.semmi
-fehér fehér MN.semmi
 
- 
-54: amikor a járda épült . # #
--járda épült .
-járda járda FN.nom
-járda járda FN.nom
-járda járda FN.nom
-
- 
 55: Tehát Frédi szabad pályát kapott . # #
 -Frédi szabad pályát
 Frédi Frédi TULN.nom
@@ -900,32 +608,7 @@ Frédi Frédi TULN.nulla
 -szabad pályát kapott
 szabad szabad MN.semmi
 szabad szabad MN.defsemmi
-szabad szabad MN.defsemmi
-
- 
-56: Hogy egyszerre mindenkihez szóljon : nyelvre , bőrszínre stb.-re való tekintet nélkül . # #
--való tekintet nélkül
-való való MN.semmi
-való való MN.semmi
-való való MN.defsemmi
--tekintet nélkül .
-tekintet tekintet FN.semmi
-tekintet tekintet FN.semmi
-tekintet tekintet FN.semmi
-
- 
-57: Nagy_Elek sem tudott jönni . # #
--Nagy_Elek sem tudott
-Nagy_Elek Nagy_Elek TULN.nom
-Nagy_Elek Nagy_Elek TULN.nom
-Nagy_Elek Nagy_Elek TULN.nom
-
- 
-58: Ott senki sem talál meg . # #
--senki sem talál
-senki senki FN_NM.nom
-senki senki FN_NM.nom
-senki senki FN_NM.nom
+szabad szabad MN.semmi
 
 
 59: Egy kisebb képen az öregem szíve tájékán kis kör alakú képről Lujza mosolyogva tekintett le reánk . # #
@@ -935,8 +618,8 @@ Egy egy SZN.semmi
 Egy egy SZN.semmi
 -kisebb képen az
 kisebb kicsi MN._FOK.semmi
-kisebb kicsi MN._FOK.defsemmi
-kisebb kicsi MN._FOK.defsemmi
+kisebb kicsi MN._FOK.semmi
+kisebb kicsi MN._FOK.semmi
 -öregem szíve tájékán
 öregem öregem FN.gen
 öregem öregem FN.gen
@@ -963,42 +646,6 @@ Lujza Lujza TULN.nom
 Lujza Lujza TULN.nom
 
 
-60: A templomajtó elé kocsmabejárat táncol , Szipcsay_Alajos vendéglője . # #
--templomajtó elé kocsmabejárat
-templomajtó templomajtó FN.semmi
-templomajtó templomajtó FN.semmi
-templomajtó templomajtó FN.semmi
--kocsmabejárat táncol ,
-kocsmabejárat kocsmabejárat FN.nom
-kocsmabejárat kocsmabejárat FN.nom
-kocsmabejárat kocsmabejárat FN.nom
--Szipcsay_Alajos vendéglője .
-Szipcsay_Alajos Szipcsay_Alajos TULN.gen
-Szipcsay_Alajos Szipcsay_Alajos TULN.gen
-Szipcsay_Alajos Szipcsay_Alajos TULN.gen
--vendéglője . #
-vendéglője vendéglő FN.PSe3.nom
-vendéglője vendéglő FN.PSe3.nom
-vendéglője vendéglő FN.PSe3.nom
-
- 
-61: Délután hárman vágtunk neki a kirándulásnak . # #
-
-
-62: A rendőrségi vizsgálatig amúgy sem tehetünk semmit . # #
--rendőrségi vizsgálatig amúgy
-rendőrségi rendőrségi MN.semmi
-rendőrségi rendőrségi MN.defsemmi
-rendőrségi rendőrségi MN.defsemmi
-
-
-63: Miki sört hozott a kamrából . # #
--Miki sört hozott
-Miki Miki FN.nom
-Miki Miki FN.nom
-Miki Miki FN.nom
-
- 
 64: A nagyhanáki római katolikus elemi iskola két helyiségből állott . # #
 -római katolikus elemi
 római római MN.semmi
@@ -1021,32 +668,6 @@ két két SZN.semmi
 két két SZN.semmi
 két két SZN.semmi
 
- 
-65: a diploma megszerzése után a főiskolán maradtam tanársegédként . # #
--diploma megszerzése után
-diploma diploma FN.gen
-diploma diploma FN.gen
-diploma diploma FN.gen
--megszerzése után a
-megszerzése megszerzés FN.PSe3.semmi
-megszerzése megszerzés FN.PSe3.semmi
-megszerzése megszerzés FN.PSe3.semmi
-
- 
-66: - S már el is tűnt az országhatár felé az autó látomása . # #
--országhatár felé az
-országhatár országhatár FN.semmi
-országhatár országhatár FN.semmi
-országhatár országhatár FN.semmi
--autó látomása .
-autó autó FN.gen
-autó autó FN.gen
-autó autó FN.gen
--látomása . #
-látomása látomás FN.PSe3.nom
-látomása látomás FN.PSe3.nom
-látomása látomás FN.PSe3.nom
-
 
 67: Április-májusban minden évben teljes halászati és horgászati tilalmat kellene elrendelni . # #
 -teljes halászati és
@@ -1060,117 +681,9 @@ halászati halászati MN.defsemmi
 -horgászati tilalmat kellene
 horgászati horgászati MN.semmi
 horgászati horgászati MN.semmi
-horgászati horgászati MN.defsemmi
-
- 
-68: Elnézed a tétova teremtést anélkül , # #
--tétova teremtést anélkül
-tétova tétova MN.semmi
-tétova tétova MN.defsemmi
-tétova tétova MN.defsemmi
+horgászati horgászati MN.semmi
 
 
-69: A meglepetés első pillanatai után próbáltam józanul fontolóra venni a helyzetet . # #
--meglepetés első pillanatai
-meglepetés meglepetés FN.gen
-meglepetés meglepetés FN.gen
-meglepetés meglepetés FN.gen
--első pillanatai után
-első első MN.semmi
-első első MN.semmi
-első első MN.defsemmi
--pillanatai után próbáltam
-pillanatai pillanat FN.PSe3i.semmi
-pillanatai pillanat FN.PSe3i.semmi
-pillanatai pillanat FN.PSe3i.semmi
- 
- 
-70: Ezért is nem akarok én innen elmenni . # #
--én innen elmenni
-én én FN_NM.e1.nom
-én én FN_NM.e1.nom
-én én FN_NM.e1.nom
-
- 
-71: hogy a magyarság érzelmeit támadó vádakra válaszoljak . # #
--magyarság érzelmeit támadó
-magyarság magyarság FN.gen
-magyarság magyarság FN.gen
-magyarság magyarság FN.gen
--támadó vádakra válaszoljak
-támadó támad IGE._OKEP.semmi
-támadó támad IGE._OKEP.semmi
-támadó támad IGE._OKEP.defsemmi
-
- 
-72: amit utoljára hallottam tőle . # #
-
- 
-73: A rosszat , az idegent kiveti magából a lélek : # #
--lélek : emlékezni
-lélek lélek FN.nom
-lélek lélek FN.nom
-lélek lélek FN.nulla
-
- 
-74: Ez elhatározása testi fogyatkozásom és gyönge külsőm miatt , de talán a rendelkezésre álló összeg csekély volta miatt is , bizalmatlanságot , sőt visszatetszést keltett az Akadémia egyes tagjaiban . # #
--Ez elhatározása testi
-Ez ez FN_NM.semmi
-Ez ez FN_NM.semmi
-Ez ez FN_NM.gen
--elhatározása testi fogyatkozásom
-elhatározása elhatározás FN.PSe3.nom
-elhatározása elhatározás FN.PSe3.nom
-elhatározása elhatározás FN.PSe3.nom
--testi fogyatkozásom és
-testi testi MN.semmi
-testi testi MN.semmi
-testi testi MN.defsemmi
--fogyatkozásom és gyönge
-fogyatkozásom fogyatkozás FN.PSe1.semmi
-fogyatkozásom fogyatkozás FN.PSe1.nulla
-fogyatkozásom fogyatkozás FN.PSe1.nulla
--gyönge külsőm miatt
-gyönge gyönge MN.semmi
-gyönge gyönge MN.semmi
-gyönge gyönge MN.defsemmi
--külsőm miatt ,
-külsőm külső FN.PSe1.semmi
-külsőm külső FN.PSe1.semmi
-külsőm külső FN.PSe1.semmi
--álló összeg csekély
-álló áll IGE._OKEP.semmi
-álló áll IGE._OKEP.semmi
-álló áll IGE._OKEP.defsemmi
--összeg csekély volta
-összeg összeg FN.gen
-összeg összeg FN.gen
-összeg összeg FN.gen
--csekély volta miatt
-csekély csekély MN.semmi
-csekély csekély MN.semmi
-csekély csekély MN.defsemmi
--volta miatt is
-volta volta FN.PSe3.semmi
-volta volta FN.PSe3.semmi
-volta volta FN.PSe3.semmi
--Akadémia egyes tagjaiban
-Akadémia akadémia FN.gen
-Akadémia akadémia FN.gen
-Akadémia akadémia FN.gen
--egyes tagjaiban .
-egyes egyes MN.semmi
-egyes egyes MN.semmi
-egyes egyes MN.semmi
-
- 
-75: - Né , nézzük csak , Janika ! # #
--Janika ! #
-Janika Janika TULN.vok
-Janika Janika TULN.vok
-Janika Janika TULN.nom
-
- 
 76: A világtengereken Magyarország is közlekedtet néhány tengeri hajót , # #
 -Magyarország is közlekedtet
 Magyarország Magyarország TULN.nom
@@ -1197,74 +710,17 @@ fajta fajta MN.defsemmi
 fajta fajta MN.defsemmi
 -politikai botrányokat robbant
 politikai politikai MN.semmi
-politikai politikai MN.defsemmi
-politikai politikai MN.defsemmi
+politikai politikai MN.semmi
+politikai politikai MN.semmi
 
- 
-78: A lovak néhol térdig gázoltak a rózsatengerben . # #
--lovak néhol térdig
-lovak ló FN.PL.nom
-lovak ló FN.PL.nom
-lovak ló FN.PL.nom
 
- 
-79: Nekem szívemen alszik ez a táj . # #
--ez a táj
-ez ez DET_NM.nom
-ez ez DET_NM.nom
-ez ez DET_NM.nom
--táj . #
-táj táj FN.nom
-táj táj FN.nom
-táj táj FN.nom
-
- 
-80: Megszégyenítve kísérgetnek Csap romhalmaz utcáin . # #
--Csap romhalmaz utcáin
-Csap Csap|csap TULN.nulla|TULN.postag_hiba
-Csap Csap|csap TULN.nulla|TULN.postag_hiba
-Csap Csap|csap TULN.nulla|TULN.nulla
--romhalmaz utcáin .
-romhalmaz romhalmaz FN.postag_hiba
-romhalmaz romhalmaz FN.postag_hiba
-romhalmaz romhalmaz FN.gen
-
- 
-81: az álmot amit lát a kisgyerek # #
--kisgyerek # #
-kisgyerek kisgyerek FN.nom
-kisgyerek kisgyerek FN.nulla
-kisgyerek kisgyerek FN.nulla
-
- 
-82: Mit beszéltek ki , motyogók ? # #
--motyogók ? #
-motyogók motyog IGE._OKEP.PL.vok
-motyogók motyog IGE._OKEP.PL.vok
-motyogók motyog IGE._OKEP.PL.NOM
-
- 
 83: Mereven , jeges szárnyakkal hullott a hóba . # #
 -jeges szárnyakkal hullott
 jeges jeges MN.semmi
 jeges jeges MN.defsemmi
-jeges jeges MN.defsemmi
+jeges jeges MN.semmi
 
- 
-84: Katzenzeug , kiáltotta a férfi . # #
--férfi . #
-férfi férfi FN.nom
-férfi férfi FN.nom
-férfi férfi FN.nom
 
- 
-85: Maga sem tudta , miért . # #
--Maga sem tudta
-Maga maga FN_NM.e3.nom
-Maga maga FN_NM.e3.nom
-Maga maga FN_NM.e3.nom
-
- 
 86: Kevés ilyen szép tájleírást olvashatunk . # #
 -Kevés ilyen szép
 Kevés kevés SZN.semmi
@@ -1277,60 +733,9 @@ ilyen ilyen MN_NM.defsemmi
 -szép tájleírást olvashatunk
 szép szép MN.semmi
 szép szép MN.semmi
-szép szép MN.defsemmi
+szép szép MN.semmi
 
- 
-87: A holló vájja ki a szemét ! # #
--holló vájja ki
-holló holló FN.nom
-holló holló FN.nom
-holló holló FN.nom
 
- 
-88: A porceláncserepek között megbarnult papírtekercset fedeztem fel . # #
--porceláncserepek között megbarnult
-porceláncserepek porceláncserép FN.PL.semmi
-porceláncserepek porceláncserép FN.PL.semmi
-porceláncserepek porceláncserép FN.PL.semmi
--megbarnult papírtekercset fedeztem
-megbarnult megbarnul IK.IGE._MIB.semmi
-megbarnult megbarnul IK.IGE._MIB.semmi
-megbarnult megbarnul IK.IGE._MIB.defsemmi
-
- 
-89: Elindultak a parti sétányon . # #
--parti sétányon .
-parti parti MN.semmi
-parti parti MN.semmi
-parti parti MN.semmi
-
- 
-90: Te is éppen így gondolkodol , én tudom . # #
--Te is éppen
-Te te FN_NM.e2.nom
-Te te FN_NM.e2.nom
-Te te FN_NM.e2.nom
--én tudom .
-én én FN_NM.e1.nom
-én én FN_NM.e1.nom
-én én FN_NM.e1.nom
-
- 
-91: A csatavesztés lehetősége riasztó árnyékkal borítaná . # #
--csatavesztés lehetősége riasztó
-csatavesztés csatavesztés FN.gen
-csatavesztés csatavesztés FN.gen
-csatavesztés csatavesztés FN.gen
--lehetősége riasztó árnyékkal
-lehetősége lehetőség FN.PSe3.nom
-lehetősége lehetőség FN.PSe3.nom
-lehetősége lehetőség FN.PSe3.nom
--riasztó árnyékkal borítaná
-riasztó riasztó FN.postag_hiba
-riasztó riasztó FN.postag_hiba
-riasztó riasztó FN.nom
-
- 
 92: Az egyikben kucorgott az ősz , a másikban a tél , a harmadikban a tavasz . # #
 -ősz , a
 ősz ősz FN.nom
@@ -1345,94 +750,334 @@ tavasz tavasz FN.nom
 tavasz tavasz FN.nom
 tavasz tavasz FN.nom
 
- 
-93: Imola megkérdezte : # #
--Imola megkérdezte :
-Imola imola|Imola FN.nom|FN.nom
-Imola imola|Imola FN.nom|FN.nom
-Imola imola|Imola FN.nom|FN.nom
 
- 
-94: Elmállani szállnék ? # #
+101: Belém szeretne attól a nagy ragyogástól , # #
+-nagy ragyogástól ,
+nagy nagy MN.semmi
+nagy nagy MN.defsemmi
+nagy nagy MN.defsemmi
 
- 
-95: Azokra is , amelyeket mások ellen , s azokra is , amelyeket magunk ellen követtünk el . # #
--mások ellen ,
-mások más|más FN_NM.PL.semmi|MN_NM.PL.semmi
-mások más|más FN_NM.PL.semmi|MN_NM.PL.semmi
-mások más|más FN_NM.PL.semmi|MN_NM.PL.semmi
--magunk ellen követtünk
-magunk maga FN_NM.t1.semmi
-magunk maga FN_NM.t1.semmi
-magunk maga FN_NM.t1.semmi
 
- 
-96: Ne vétkezzünk , emberek !... # #
--emberek !... #
-emberek ember FN.PL.vok
-emberek ember FN.PL.vok
-emberek ember FN.PL.nom
+104: - Ölelgetnétek ti még engem , hogy így , aranyos elnök elvtárs , meg úgy aranyos elnök úr ... # #
+-ti még engem
+ti ti FN_NM.t2.nulla
+ti ti FN_NM.t2.nulla
+ti ti FN_NM.t2.nulla
+-aranyos elnök elvtárs
+aranyos aranyos MN.semmi
+aranyos aranyos MN.defsemmi
+aranyos aranyos MN.defsemmi
+-elnök elvtárs ,
+elnök elnök FN.amnk
+elnök elnök FN.amnk
+elnök elnök FN.nulla
+-elvtárs , meg
+elvtárs elvtárs FN.nulla
+elvtárs elvtárs FN.nulla
+elvtárs elvtárs FN.nulla
+-aranyos elnök úr
+aranyos aranyos MN.semmi
+aranyos aranyos MN.defsemmi
+aranyos aranyos MN.defsemmi
+-elnök úr ...
+elnök elnök FN.amnk
+elnök elnök FN.amnk
+elnök elnök FN.nom
+-úr ... #
+úr úr FN.vok
+úr úr FN.vok
+úr úr FN.nom
 
- 
-97: Érthetetlen nyelvű kiabálását az emberek elengedték a fülük mellett . # #
--Érthetetlen nyelvű kiabálását
-Érthetetlen érthetetlen MN.semmi
-Érthetetlen érthetetlen MN.semmi
-Érthetetlen érthetetlen MN.defsemmi
--nyelvű kiabálását az
-nyelvű nyelvű MN.semmi
-nyelvű nyelvű MN.defsemmi
-nyelvű nyelvű MN.defsemmi
--emberek elengedték a
-emberek ember FN.PL.nom
-emberek ember FN.PL.nom
-emberek ember FN.PL.nom
--fülük mellett .
-fülük fül FN.PSt3.semmi
-fülük fül FN.PSt3.semmi
-fülük fül FN.PSt3.semmi
 
- 
-98: Foggal-körömmel igyekeztem hát Budapestre , # #
+109: A megmaradásért kell alkalmazkodni a törvényekhez , az élet szükséges törvényeihez : naphoz , esőhöz , földhöz , a természet nagy erőihez s az emberi természet törvényeihez ... # #
+-élet szükséges törvényeihez
+élet élet FN.gen
+élet élet FN.gen
+élet élet FN.gen
+-szükséges törvényeihez :
+szükséges szükséges MN.semmi
+szükséges szükséges MN.defsemmi
+szükséges szükséges MN.defsemmi
+-természet nagy erőihez
+természet természet FN.gen
+természet természet FN.gen
+természet természet FN.gen
+-nagy erőihez s
+nagy nagy MN.semmi
+nagy nagy MN.defsemmi
+nagy nagy MN.defsemmi
+-emberi természet törvényeihez
+emberi emberi MN.semmi
+emberi emberi MN.semmi
+emberi emberi MN.defsemmi
+-természet törvényeihez ...
+természet természet FN.gen
+természet természet FN.gen
+természet természet FN.gen
 
- 
-99: Végigdőlt fekhelyén , és nyitott szemmel bámult a sötétségbe . # #
--Végigdőlt fekhelyén ,
-Végigdőlt végigdől IK.IGE._MIB.postag_hiba
-Végigdőlt végigdől IK.IGE._MIB.defsemmi
-Végigdőlt végigdől IK.IGE._MIB.defsemmi
--nyitott szemmel bámult
-nyitott nyit IGE._MIB.semmi
-nyitott nyit IGE._MIB.semmi
-nyitott nyit IGE._MIB.defsemmi
 
- 
-100: A segélyakcióval kapcsolatosan Csenke község bírója idős Sáhó_Lajos az alábbi értesítést küldte a körjegyzőségi hivatalba : # #
--Csenke község bírója
-Csenke Csenke TULN.amnk
-Csenke Csenke TULN.amnk
-Csenke Csenke TULN.nulla
--község bírója idős
-község község FN.gen
-község község FN.gen
-község község FN.gen
--bírója idős Sáhó_Lajos
-bírója bíró FN.PSe3.nom
-bírója bíró FN.PSe3.nom
-bírója bíró FN.PSe3.nom
--idős Sáhó_Lajos az
-idős idős MN.semmi
-idős idős MN.semmi
-idős idős MN.defsemmi
--Sáhó_Lajos az alábbi
-Sáhó_Lajos Sáhó_Lajos TULN.nom
-Sáhó_Lajos Sáhó_Lajos TULN.nom
-Sáhó_Lajos Sáhó_Lajos TULN.nom
--alábbi értesítést küldte
-alábbi alábbi MN.semmi
-alábbi alábbi MN.semmi
-alábbi alábbi MN.defsemmi
--körjegyzőségi hivatalba :
-körjegyzőségi körjegyzőségi MN.semmi
-körjegyzőségi körjegyzőségi MN.semmi
-körjegyzőségi körjegyzőségi MN.semmi
+116: Hány és hány nappal tornászott ágaidon . # #
+-Hány és hány
+Hány hány|ahány SZN_NM.defsemmi|SZN_NM.semmi
+Hány hány|ahány SZN_NM.defsemmi|SZN_NM.defsemmi
+Hány hány|ahány SZN_NM.defsemmi|SZN_NM.defsemmi
+-hány nappal tornászott
+hány ahány|hány SZN_NM.semmi|SZN_NM.semmi
+hány ahány|hány SZN_NM.semmi|SZN_NM.semmi
+hány ahány|hány SZN_NM.semmi|SZN_NM.semmi
+
+
+139: Tom oldalra csúszott fejjel , aprókat szusszantva alszik . # #
+-Tom oldalra csúszott
+Tom Tom FN.nom
+Tom Tom FN.nom
+Tom Tom FN.nulla
+-csúszott fejjel ,
+csúszott csúszik IGE._MIB.semmi
+csúszott csúszik IGE._MIB.defsemmi
+csúszott csúszik IGE._MIB.defsemmi
+
+
+143: Énekelt népzenei hagyományunk műfaji besorolása néha gondot okoz . # #
+-Énekelt népzenei hagyományunk
+Énekelt énekel IGE._MIB.semmi
+Énekelt énekel IGE._MIB.defsemmi
+Énekelt énekel IGE._MIB.defsemmi
+-népzenei hagyományunk műfaji
+népzenei népzenei MN.semmi
+népzenei népzenei MN.semmi
+népzenei népzenei MN.defsemmi
+-hagyományunk műfaji besorolása
+hagyományunk hagyomány FN.PSt1.gen
+hagyományunk hagyomány FN.PSt1.gen
+hagyományunk hagyomány FN.PSt1.gen
+-műfaji besorolása néha
+műfaji műfaji MN.semmi
+műfaji műfaji MN.semmi
+műfaji műfaji MN.defsemmi
+-besorolása néha gondot
+besorolása besorolás FN.PSe3.nom
+besorolása besorolás FN.PSe3.nom
+besorolása besorolás FN.PSe3.nom
+
+
+146: - Egy macskát , aztán egy veréb repül a szélvédődnek , hol egy pocok , egy eb ... egy korcs , ugye ... egy kutya ?! # #
+-Egy macskát ,
+Egy egy SZN.semmi
+Egy egy SZN.semmi
+Egy egy SZN.semmi
+-egy veréb repül
+egy egy SZN.semmi
+egy egy SZN.semmi
+egy egy SZN.semmi
+-veréb repül a
+veréb veréb FN.nom
+veréb veréb FN.nom
+veréb veréb FN.nom
+-egy pocok ,
+egy egy SZN.semmi
+egy egy SZN.semmi
+egy egy SZN.semmi
+-pocok , egy
+pocok pocok FN.nom
+pocok pocok FN.nulla
+pocok pocok FN.nulla
+-egy eb ...
+egy egy SZN.semmi
+egy egy SZN.semmi
+egy egy SZN.semmi
+-eb ... egy
+eb eb FN.nom
+eb eb FN.nulla
+eb eb FN.nulla
+-egy korcs ,
+egy egy SZN.semmi
+egy egy SZN.semmi
+egy egy SZN.semmi
+-korcs , ugye
+korcs korcs MN.defsemmi
+korcs korcs MN.defsemmi
+korcs korcs MN.defsemmi
+-egy kutya ?!
+egy egy SZN.semmi
+egy egy SZN.semmi
+egy egy SZN.semmi
+-kutya ?! #
+kutya kutya FN.nom
+kutya kutya FN.nom
+kutya kutya FN.nom
+
+
+159: Virágok : szökőkutak robbannak rögökből , földből . # #
+-Virágok : szökőkutak
+Virágok Virág|virág FN.PL.nom|FN.PL.nom
+Virágok Virág|virág FN.PL.nulla|FN.PL.nulla
+Virágok Virág|virág FN.PL.nom|FN.PL.nom
+-szökőkutak robbannak rögökből
+szökőkutak szökőkút FN.PL.nom
+szökőkutak szökőkút FN.PL.nom
+szökőkutak szökőkút FN.PL.nom
+
+
+161: Boncz útravalóul két sárgadinnyét kapott anyjától . # #
+-Boncz útravalóul két
+Boncz Boncz FN.nom
+Boncz Boncz FN.nulla
+Boncz Boncz FN.nulla
+-két sárgadinnyét kapott
+két két SZN.semmi
+két két SZN.semmi
+két két SZN.semmi
+
+
+162: A 80-as esztendő minden nehézsége ellenére jó évet zárunk . # #
+-80-as esztendő minden
+80-as 80-as MN.semmi
+80-as 80-as MN.semmi
+80-as 80-as MN.defsemmi
+-esztendő minden nehézsége
+esztendő esztendő FN.gen
+esztendő esztendő FN.nulla
+esztendő esztendő FN.nulla
+-nehézsége ellenére jó
+nehézsége nehézség FN.PSe3.postag_hiba
+nehézsége nehézség FN.PSe3.postag_hiba
+nehézsége nehézség FN.PSe3.semmi
+
+
+165: - A hintóm rendelkezésére áll , báróné ! # #
+-hintóm rendelkezésére áll
+hintóm hintó FN.PSe1.nom
+hintóm hintó FN.PSe1.nulla
+hintóm hintó FN.PSe1.gen
+-báróné ! #
+báróné báróné FN.vok
+báróné báróné FN.vok
+báróné báróné FN.nom
+
+
+171: a Talamon-értelmezés újabb horizontját nyithatja meg . # #
+-újabb horizontját nyithatja
+újabb új MN._FOK.semmi
+újabb új MN._FOK.defsemmi
+újabb új MN._FOK.semmi
+
+
+173:  ha felügyeletem alatt egy kissé erőre kapna . # #
+-felügyeletem alatt egy
+felügyeletem felügyelet FN.PSe1.semmi
+felügyeletem felügyelet FN.PSe1.semmi
+felügyeletem felügyelet FN.PSe1.semmi
+-egy kissé erőre
+egy egy SZN.semmmi
+egy egy SZN.defsemmi
+egy egy SZN.defsemmi
+
+
+179: A Meggyfa című új kötetben 1952 és 56-os korabeli és emlékező műveket is közöl . # #
+-Meggyfa című új
+Meggyfa meggyfa TULN.amnk
+Meggyfa meggyfa TULN.amnk
+Meggyfa meggyfa TULN.semmi
+-című új kötetben
+című című MN.semmi
+című című MN.semmi
+című című MN.defsemmi
+-új kötetben 1952
+új új MN.semmi
+új új MN.defsemmi
+új új MN.defsemmi
+-1952 és 56-os
+1952 1952 SZN_DIGIT.semmi
+1952 1952 SZN_DIGIT.defsemmi
+1952 1952 SZN_DIGIT.defsemmi
+-56-os korabeli és
+56-os 56-os MN.semmi
+56-os 56-os MN.defsemmi
+56-os 56-os MN.defsemmi
+-korabeli és emlékező
+korabeli korabeli MN.semmi
+korabeli korabeli MN.semmi
+korabeli korabeli MN.defsemmi
+-emlékező műveket is
+emlékező emlékező MN.semmi
+emlékező emlékező MN.semmi
+emlékező emlékező MN.semmi
+
+
+187: Igen jelentős szerepet vállalt a magyar iskolák újbóli megalakításában . # #
+-jelentős szerepet vállalt
+jelentős jelentős MN.semmi
+jelentős jelentős MN.semmi
+jelentős jelentős MN.semmi
+-magyar iskolák újbóli
+magyar magyar MN.semmi
+magyar magyar MN.defsemmi
+magyar magyar MN.defsemmi
+-iskolák újbóli megalakításában
+iskolák iskola FN.PL.gen
+iskolák iskola FN.PL.gen
+iskolák iskola FN.PL.gen
+-újbóli megalakításában .
+újbóli újbóli MN.semmi
+újbóli újbóli MN.semmi
+újbóli újbóli MN.semmi
+
+
+188: A fenékpusztai manufaktúrától hosszú és tanulságos út vezetett a mai modern hajóépítésig . # #
+-fenékpusztai manufaktúrától hosszú
+fenékpusztai fenékpusztai MN.semmi
+fenékpusztai fenékpusztai MN.semmi
+fenékpusztai fenékpusztai MN.defsemmi
+-hosszú és tanulságos
+hosszú hosszú MN.semmi
+hosszú hosszú MN.defsemmi
+hosszú hosszú MN.defsemmi
+-tanulságos út vezetett
+tanulságos tanulságos MN.semmi
+tanulságos tanulságos MN.semmi
+tanulságos tanulságos MN.semmi
+-út vezetett a
+út út FN.nom
+út út FN.nom
+út út FN.nom
+-mai modern hajóépítésig
+mai mai MN.semmi
+mai mai MN.defsemmi
+mai mai MN.defsemmi
+-modern hajóépítésig .
+modern modern MN.semmi
+modern modern MN.semmi
+modern modern MN.semmi
+
+
+190: Csak nézem - már békés kiváncsi - makacs , kápráztató szorgoskodását , egy-világnyi pangást megmozgatót . # #
+-békés kiváncsi -
+békés békés MN.semmi
+békés békés MN.defsemmi
+békés békés MN.defsemmi
+-makacs , kápráztató
+makacs makacs MN.semmi
+makacs makacs MN.defsemmi
+makacs makacs MN.defsemmi
+-kápráztató szorgoskodását ,
+kápráztató kápráztató MN.semmi
+kápráztató kápráztató MN.defsemmi
+kápráztató kápráztató MN.defsemmi
+-egy-világnyi pangást megmozgatót
+egy-világnyi egy-világnyi MN.semmi
+egy-világnyi egy-világnyi MN.semmi
+egy-világnyi egy-világnyi MN.defsemmi
+
+
+192: Hogy a szélsőségeket egy újra megteremtődő szervességnek " játszhassa " át . # #
+-egy újra megteremtődő
+egy egy SZN.semmi
+egy egy SZN.semmi
+egy egy SZN.defsemmi
+-megteremtődő szervességnek "
+megteremtődő megteremtődik IK.IGE._OKEP.semmi
+megteremtődő megteremtődik IK.IGE._OKEP.defsemmi
+megteremtődő megteremtődik IK.IGE._OKEP.defsemmi
+
+
