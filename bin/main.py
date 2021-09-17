@@ -7,8 +7,8 @@ import yaml
 from nomorwhat import *
 
 macro_config_file = 'macros.yml'
-input_file = 'output_1000.txt'
-output_file = 'input_1000.txt'
+input_file = 'input_1000.txt'
+output_file = 'output_1000.txt'
 
 # reading macros
 with open(macro_config_file, 'r') as fin:
