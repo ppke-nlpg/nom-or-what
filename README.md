@@ -3,7 +3,7 @@ Nom-or-what algorithm, designed to disambiguate case endings on nouns, adjective
 
 Files in the bin folder:
 
-`nom-or-what.py`: the nom-or-what module. 
+`nomorwhat.py`: the nom-or-what module. 
 
 `main.ipynb`: a notebook to test nom-or-what.
 

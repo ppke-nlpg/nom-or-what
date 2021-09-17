@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
+import re
 
 
 def evaluate_nom_or_what(annotated_file):
@@ -179,4 +179,7 @@ def evaluate_nom_or_what(annotated_file):
     for key in full_algo:
         print(key,full_algo[key])
     print()
+
+
+evaluate_nom_or_what("annotated_1000.txt")
 
