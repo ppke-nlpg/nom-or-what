@@ -27,7 +27,8 @@ Run
 ```python
 python3 evaluate.py
 ```
-and see output of the algo in `output_1000.txt`.
+and the output is what we see
+in tables 2.3, 2.5 and 2.8 in the thesis.
 
 `evaluate.py`: for evaluating nom-or-what using `annotated_1000.txt`.
 
