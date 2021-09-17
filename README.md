@@ -1,19 +1,33 @@
 # nom-or-what
-Nom-or-what algorithm, designed to disambiguate case endings on nouns, adjectives, numerals etc. in Hungarian.
+`Nom-or-what` algorithm, designed to disambiguate suffixless nominals in Hungarian.
 
-Files in the bin folder:
+## testing
+
+Run
+```python
+python3 main.py
+```
+and see output of the algo in `output_1000.txt`.
 
 `nomorwhat.py`: the nom-or-what module. 
 
-`main.ipynb`: a notebook to test nom-or-what.
+`main.py`: for testing nom-or-what.
 
 The input file has to contain one sentence / line.
 The tokens need to be annotated with emMorph (in a  "/"-separated format, and with the tag set of emMorph).
 `input_1000.txt` is an example file; it contains 1000 sentences nom-or-what has been evaluated on.
 
-The output file will be like `output_1000.txt`: Enumerated sentences with the parsing window of each suffixless nominals in them, and the proposed tag of each suffixless nominal (listed three times - to prepare the file for the manual annotation).
+The output file will be like `output_1000.txt`: each suffixless nominals are listed with a two-token parsing window and proposed `Nom-or-what` tag (which appears three times for manual annotation purposes).
 
 `macros.yml`: config file for the macros used in nom-or-what.
 
-`evaluate.ipynb`: a notebook for the evaluation of files in the format of `output_1000.txt` and `annotated_1000.txt`.
+## evaluation
+
+Run
+```python
+python3 evaluate.py
+```
+and see output of the algo in `output_1000.txt`.
+
+`evaluate.py`: for evaluating nom-or-what using `annotated_1000.txt`.
 
