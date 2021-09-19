@@ -254,3 +254,4 @@ def write_to_annot_file(new_sent, to_write, outp, i):
     [outp.writelines(('-' + nom.split()[0] + ' ' + window[0][0] + ' ' + window[1][0] + '\n', nom + '\n', nom + '\n', nom + '\n')) for
      (window, nom) in to_write]
     outp.writelines(('\n', '\n'))
+
