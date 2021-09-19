@@ -14,5 +14,6 @@ The output file will be like output_1000.txt: Enumerated sentences with the pars
 
 macros.yml: config file for the macros used in nom-or-what.
 
+# Evaluation 
 evaluate.ipynb: a notebook for the evaluation of files in the format of output_1000.txt and annotated_1000.txt.
 
